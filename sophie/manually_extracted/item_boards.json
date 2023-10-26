@@ -1,0 +1,4142 @@
+{
+  "ITEM_ACC_AMBROSIA_COROLLA": {
+    "colors": [
+      " BBB  ",
+      " RRRRY",
+      "YRR RY",
+      "YG GGY",
+      "YGGGG ",
+      "  BBB "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        " 1  2 ",
+        "      ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "  2 1 ",
+        " 1  2 ",
+        "2     ",
+        "  1 1 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "  2 1 ",
+        " 1  2 ",
+        "2    2",
+        "  1 1 ",
+        "   2  "
+      ]
+    ]
+  },
+  "ITEM_ACC_ANGEL_RIBBON": {
+    "colors": [
+      " BBBB ",
+      "Y BB W",
+      "YYYWWW",
+      "YYYWWW",
+      "Y RR W",
+      " RRRR "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "  2 1 ",
+        " 1 1  ",
+        "      ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "      ",
+        "2 2 1 ",
+        " 1 1  ",
+        "2  2  ",
+        "      "
+      ],
+      [
+        " 2 11 ",
+        "1    1",
+        "2 2 12",
+        " 1 1  ",
+        "2  2 2",
+        "  1 1 "
+      ]
+    ]
+  },
+  "ITEM_ACC_CHRONICLE_MARK": {
+    "colors": [
+      "RYBGWR",
+      "YYBGWW",
+      "BBBGGG",
+      "GGGBBB",
+      "WWGBYY",
+      "RWGBYR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "      ",
+        " 1  2 ",
+        "   1  ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "1  1  ",
+        "  2   ",
+        " 1  2 ",
+        "   1  ",
+        " 1    "
+      ],
+      [
+        "  1 1 ",
+        "1  1 2",
+        "  2   ",
+        " 1 22 ",
+        "   1 2",
+        " 11   "
+      ]
+    ]
+  },
+  "ITEM_ACC_ELEMENT_SHIELD": {
+    "colors": [
+      "WWGR R",
+      "W WRG ",
+      "GWG RR",
+      "BB GYG",
+      " GBY Y",
+      "B BGYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  2   ",
+        "    1 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "2  1  ",
+        "    1 ",
+        "  2   ",
+        "    1 ",
+        " 1 2  ",
+        "      "
+      ],
+      [
+        "2 21  ",
+        "1   1 ",
+        " 12  2",
+        "    1 ",
+        " 1 2  ",
+        "2   2 "
+      ]
+    ]
+  },
+  "ITEM_ACC_FRATERNAL_PERSONA": {
+    "colors": [
+      "WYWRGG",
+      "WYRRRG",
+      "YYYRYG",
+      "GYRYYY",
+      "GRRRYW",
+      "GGRWYW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  2   ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 1  1 ",
+        "  2   ",
+        "1  1  ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 1  1 ",
+        "2 2  2",
+        "1  1 2",
+        " 1  2 ",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_ACC_GREEN_FEATHERS": {
+    "colors": [
+      "RRGGBB",
+      "RRRGBB",
+      "GGGBGG",
+      "GGYGGG",
+      "YYGWWW",
+      "YYGGWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        " 1    ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "      ",
+        "    1 ",
+        " 11   ",
+        "1  2  ",
+        " 1  2 ",
+        "   1  "
+      ],
+      [
+        "   2  ",
+        " 1  1 ",
+        " 11  2",
+        "1  2  ",
+        " 11 2 ",
+        "2  1  "
+      ]
+    ]
+  },
+  "ITEM_ACC_GUNADE_RING": {
+    "colors": [
+      " BRGB ",
+      "B RG B",
+      "RRRBGG",
+      "WWBYYY",
+      "B WY B",
+      " BWYB "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "   2  ",
+        "  1 1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2     ",
+        "   2 1",
+        "  1 1 ",
+        "  1   ",
+        "  1   "
+      ],
+      [
+        "  1 2 ",
+        "2     ",
+        " 1 211",
+        " 21 1 ",
+        "  11  ",
+        "  1 2 "
+      ]
+    ]
+  },
+  "ITEM_ACC_HUSTLE_BELT": {
+    "colors": [
+      "YYRRWW",
+      "YYYWWW",
+      "RYRRWR",
+      "RBRRGR",
+      "BBBGGG",
+      "BBRRGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "   1  ",
+        "  2 1 ",
+        "      ",
+        "      "
+      ],
+      [
+        " 1    ",
+        "   1  ",
+        "   11 ",
+        "2 2 1 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1   2",
+        "   1  ",
+        "   11 ",
+        "2 2 1 ",
+        " 1    ",
+        "1    2"
+      ]
+    ]
+  },
+  "ITEM_ACC_INCANDESCENT_HEADBAND": {
+    "colors": [
+      "YYRBBB",
+      "YYRWWW",
+      "YYRRRR",
+      "RRRRGG",
+      "WWWRGG",
+      "BBBRGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "      ",
+        "      ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        " 1    ",
+        "1 1   ",
+        "      ",
+        "  1 1 ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        " 1 1  ",
+        "1 1   ",
+        "   2 1",
+        "  1 1 ",
+        " 2    "
+      ]
+    ]
+  },
+  "ITEM_ACC_LIFE_BANGLE": {
+    "colors": [
+      "BRRRRY",
+      "BBBYYY",
+      "BRBYRY",
+      "WRWGRG",
+      "WWWGGG",
+      "WRRRRG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1  2 ",
+        "      ",
+        "   1  ",
+        "      "
+      ],
+      [
+        "  2   ",
+        "1  1  ",
+        " 1  2 ",
+        "  1   ",
+        " 1 1  ",
+        "      "
+      ],
+      [
+        "  2   ",
+        "1  1 2",
+        " 1  2 ",
+        "  1  2",
+        " 1 1  ",
+        " 1    "
+      ]
+    ]
+  },
+  "ITEM_ACC_MANIPULATE_HOURGLASS": {
+    "colors": [
+      "RGWWGR",
+      "YGRRGY",
+      "RYGGYR",
+      "RYGGYR",
+      "YGRRGY",
+      "RGWWGR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1    ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "1  1  ",
+        " 1    ",
+        "  21 1",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 11  2",
+        "1  1  ",
+        " 1    ",
+        "  21 1",
+        " 2    ",
+        "1  1  "
+      ]
+    ]
+  },
+  "ITEM_ACC_MEISTER_MITTENS": {
+    "colors": [
+      "RRYYWW",
+      "RYRWYW",
+      "YRYYWY",
+      "YGYYBY",
+      "GYGBYB",
+      "GGYYBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1   ",
+        "   1  ",
+        " 1    ",
+        "    2 ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        "  1   ",
+        "   1  ",
+        " 1 2  ",
+        "  1 2 ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        "  1  2",
+        "   1  ",
+        " 1 2  ",
+        "  1 2 ",
+        "1    2"
+      ]
+    ]
+  },
+  "ITEM_ACC_MONOCHROME_GLASS": {
+    "colors": [
+      "WBWGGW",
+      "BBBWYY",
+      "YBWWRY",
+      "YBWWRY",
+      "YYWRRR",
+      "WGGWRW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1    ",
+        "1   1 ",
+        " 11   ",
+        "   21 ",
+        " 11   ",
+        "      "
+      ],
+      [
+        " 1    ",
+        "11  1 ",
+        " 11  2",
+        "   21 ",
+        " 11 1 ",
+        "2    2"
+      ]
+    ]
+  },
+  "ITEM_ACC_MONOCLE_MINDS_EYE": {
+    "colors": [
+      "GYBBBG",
+      "YYYYGW",
+      "WYGGGW",
+      "WGGGRW",
+      "WGRRRR",
+      "GBBBRG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1    ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "   1  ",
+        " 1  2 ",
+        "  11  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2   2",
+        "1  1  ",
+        " 1  2 ",
+        "  111 ",
+        " 2 2  ",
+        "  1  1"
+      ]
+    ]
+  },
+  "ITEM_ACC_SPIRIT_EARRINGS": {
+    "colors": [
+      "GBWWBG",
+      "BRBBRB",
+      "YBRRBY",
+      "YBRRBY",
+      "BRBBRB",
+      "GBWWBG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1 1 ",
+        "      ",
+        " 2    ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "1 1 1 ",
+        "  1   ",
+        " 2  1 ",
+        "  1   ",
+        "     1"
+      ],
+      [
+        "   1  ",
+        "111 1 ",
+        "  1  2",
+        " 2  1 ",
+        "  1   ",
+        "2    1"
+      ]
+    ]
+  },
+  "ITEM_KEY_ITEM_006": {
+    "colors": [
+      "BBBRRR",
+      "BWWWWR",
+      "BWBRWR",
+      "YWYGWG",
+      "YWWWWG",
+      "YYYGGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "   2  ",
+        "      ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "1   2 ",
+        " 1    ",
+        "1 12  ",
+        "      ",
+        "  1 2 ",
+        "      "
+      ],
+      [
+        "1   2 ",
+        " 1 2  ",
+        "1 12  ",
+        "   1  ",
+        "  1 2 ",
+        " 1    "
+      ]
+    ]
+  },
+  "ITEM_KEY_ITEM_007": {
+    "colors": [
+      "RRYYBB",
+      "RRGBBB",
+      "GGGGBG",
+      "GRGGGG",
+      "RRRGWW",
+      "RRYYWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "   2  ",
+        "  1   ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "  1   ",
+        " 1  1 ",
+        "2  2  ",
+        "  1   ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "  1  2",
+        " 1  1 ",
+        "2  2  ",
+        "  1   ",
+        " 1  1 ",
+        "  2  1"
+      ]
+    ]
+  },
+  "ITEM_KEY_ITEM_010": {
+    "colors": [
+      "WWYYWW",
+      "YYWWYY",
+      "BBYYBB",
+      "BBYYBB",
+      "YYWWYY",
+      "WWYYWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "  1   ",
+        "    2 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "1  1  ",
+        "  1   ",
+        "  1 2 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2   2",
+        "1  1  ",
+        "  1   ",
+        "1 1 2 ",
+        " 2 1 2",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_KEY_ITEM_011": {
+    "colors": [
+      "YWWRRY",
+      "WYWRYR",
+      "WWYYRR",
+      "GGYYBB",
+      "GYGBYB",
+      "YGGBBY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "  1   ",
+        "      ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2 1  ",
+        "    2 ",
+        "1 1   ",
+        "    1 ",
+        " 1 2  ",
+        "      "
+      ],
+      [
+        " 2 1  ",
+        " 2  2 ",
+        "1 1  1",
+        "    1 ",
+        " 1 2  ",
+        "  1   "
+      ]
+    ]
+  },
+  "ITEM_MIX_ALCHEMYST_KETTLE": {
+    "colors": [
+      "GGWYBB",
+      "GWWYYB",
+      "WWWYYY",
+      "RRRWWW",
+      "BRRWWG",
+      "BBRWGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2  1 ",
+        "      ",
+        "      ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 2  1 ",
+        "  1   ",
+        "1  2  ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 2  1 ",
+        " 111 2",
+        "1 121 ",
+        " 1  1 ",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_ALCHEMY_CLAY": {
+    "colors": [
+      "RWBBWB",
+      "WWBBWW",
+      "RRWWRR",
+      "RRWWRR",
+      "WWBBWW",
+      "BWBBWR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1    ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  1  ",
+        " 1  2 ",
+        "  11  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "  1  1",
+        "2  1  ",
+        " 1  2 ",
+        "  11  ",
+        " 2  1 ",
+        "2     "
+      ]
+    ]
+  },
+  "ITEM_MIX_ALCHEMY_DROP": {
+    "colors": [
+      "GGWYYY",
+      "GGWRYY",
+      "RGRRRR",
+      "YRRRGR",
+      "YYRWGG",
+      "YYRWGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        "    1 ",
+        "1 1   ",
+        "   21 ",
+        " 1 1  ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        " 2  1 ",
+        "1 1   ",
+        "  121 ",
+        " 1 1  ",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_ALCHEMY_STONE": {
+    "colors": [
+      "WRRBBW",
+      "RWRBWB",
+      "RRWWBB",
+      "YYWWGG",
+      "YWYGWG",
+      "WYYGGW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2    ",
+        "   2  ",
+        "  1   ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "  1   ",
+        " 2  2 ",
+        "1  2  ",
+        "  1   ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "  1  1",
+        " 2  2 ",
+        "1  2  ",
+        "  1 1 ",
+        " 1  1 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_ALIVE_CART": {
+    "colors": [
+      "YRBBRY",
+      "RYYYYR",
+      "GYGGYG",
+      "GYGGYG",
+      "RYYYYR",
+      "YRBBRY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   2  ",
+        " 1    ",
+        "  1   ",
+        "   1  ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "1  2  ",
+        " 1    ",
+        "1 1   ",
+        " 2 1  ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "1  2 1",
+        " 1 1  ",
+        "1 1  2",
+        " 2 1  ",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_ALL_THINGS_MANUSCRIPT": {
+    "colors": [
+      "RRWWGG",
+      "RRRGGG",
+      "WRWWGW",
+      "WBWWYW",
+      "BBBYYY",
+      "BBWWYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "  2   ",
+        "    1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "     1",
+        "  11  ",
+        "  2 1 ",
+        "1  11 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        " 2   1",
+        "  11  ",
+        "  2 11",
+        "1  11 ",
+        "  1   ",
+        " 1   1"
+      ]
+    ]
+  },
+  "ITEM_MIX_AMULET_TALISMAN": {
+    "colors": [
+      "YYWGGG",
+      "YWWWBG",
+      "YRYBBB",
+      "RRRYBY",
+      "GRWWWY",
+      "GGGWYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "  2   ",
+        " 1  1 ",
+        "      ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  1  ",
+        "  2   ",
+        " 1  1 ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "  1 1 ",
+        "2  1 1",
+        "  2   ",
+        " 1 21 ",
+        "   2 2",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_ANGEL_WHISPER": {
+    "colors": [
+      "YYWRBR",
+      "YWWBBB",
+      "WWWYBR",
+      "RBYWWW",
+      "BBBWWY",
+      "RBRWYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1    ",
+        "    2 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  2   ",
+        "   1  ",
+        " 1  2 ",
+        "  1 2 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  2  1",
+        "1  1  ",
+        " 1  2 ",
+        "  1 2 ",
+        " 1 2  ",
+        "  2  2"
+      ]
+    ]
+  },
+  "ITEM_MIX_APCALL": {
+    "colors": [
+      "RRYYRR",
+      "RRYYRR",
+      "YYYYYY",
+      "YYYYYY",
+      "RRYYRR",
+      "RRYYRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  1   ",
+        "1  1  ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  11 2",
+        "1 11  ",
+        " 1  2 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_BAGEL_SAND": {
+    "colors": [
+      "RBWWYR",
+      "BBBRYY",
+      "WBRRRW",
+      "WRRRGW",
+      "YYRGGG",
+      "RYWWGR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "      ",
+        " 2    ",
+        "  2   ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "1   1 ",
+        "      ",
+        " 2  1 ",
+        "  2   ",
+        "     1"
+      ],
+      [
+        "   1  ",
+        "12  1 ",
+        "  1  2",
+        " 2  1 ",
+        "  21  ",
+        "     1"
+      ]
+    ]
+  },
+  "ITEM_MIX_BAKED_GOODS": {
+    "colors": [
+      "RBBYYY",
+      "RBBGGY",
+      "RYYGGY",
+      "GYYGGR",
+      "GYYBBR",
+      "GGGBBR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "   1  ",
+        "  1 1 ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "      ",
+        " 1  2 ",
+        "1  1  ",
+        "  1 1 ",
+        "11  1 ",
+        "      "
+      ],
+      [
+        "  2  1",
+        " 1  2 ",
+        "1  1  ",
+        "  1 1 ",
+        "11  1 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE": {
+    "colors": [
+      "YYRGGG",
+      "YRRWWG",
+      "YRRWWW",
+      "WWWBBY",
+      "GWWBBY",
+      "GGGBYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "   2  ",
+        "  1   ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "  1   ",
+        " 1  1 ",
+        "1  2  ",
+        "  1   ",
+        " 2  1 ",
+        "      "
+      ],
+      [
+        "1 1  1",
+        " 1  1 ",
+        "1  2  ",
+        "  1 2 ",
+        " 2  1 ",
+        "  2  2"
+      ]
+    ]
+  },
+  "ITEM_MIX_BLITZRITE": {
+    "colors": [
+      "YYGGYY",
+      "GGYYGG",
+      "RRGGRR",
+      "RRGGRR",
+      "GGYYGG",
+      "YYGGYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "      ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "      ",
+        "    2 ",
+        "  2   ",
+        "1  1  ",
+        " 2  1 ",
+        "   1  "
+      ],
+      [
+        "   1  ",
+        " 2  2 ",
+        "  2  1",
+        "1  1  ",
+        " 21 1 ",
+        "   1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_BOTTLING_MISFORTUNE": {
+    "colors": [
+      "BBRRWW",
+      "BBBWWW",
+      "RBRRWR",
+      "RGRRYR",
+      "GGGYYY",
+      "GGRRYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "  1   ",
+        " 1 2  ",
+        "      ",
+        "      "
+      ],
+      [
+        "  2   ",
+        "1  1  ",
+        "  1   ",
+        " 1 22 ",
+        "      ",
+        "      "
+      ],
+      [
+        "  2 1 ",
+        "1  1 2",
+        "  1   ",
+        " 1 22 ",
+        "1  1 1",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_BREEZE_AROMA": {
+    "colors": [
+      "YR G W",
+      "RYYGW ",
+      " Y GGG",
+      "GGG Y ",
+      " WGYYR",
+      "W G RY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "      ",
+        "  2 1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        " 1    ",
+        "  11  ",
+        "    1 ",
+        "2 2 1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        " 1   1",
+        "  11  ",
+        "    1 ",
+        "2 2 1 ",
+        "  11  ",
+        "1    2"
+      ]
+    ]
+  },
+  "ITEM_MIX_BUNDLED_GOLD": {
+    "colors": [
+      "WYYYYW",
+      "YYWWYY",
+      "YWYYWY",
+      "YWYYWY",
+      "YYWWYY",
+      "WYYYYW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "      ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "      ",
+        "    2 ",
+        "  2   ",
+        "1  1  ",
+        " 2  1 ",
+        "   1  "
+      ],
+      [
+        "   1  ",
+        " 2  2 ",
+        "  2  1",
+        "1  1  ",
+        " 21 1 ",
+        "   1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_CLEAR_DROP": {
+    "colors": [
+      "YBBRRW",
+      "YBGGRW",
+      "GBBRRG",
+      "GRRBBG",
+      "WRGGBY",
+      "WRRBBY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2    ",
+        "   1  ",
+        "      ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        " 2    ",
+        "1 11  ",
+        "      ",
+        "  1 2 ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        " 2 1  ",
+        "1 11  ",
+        "     1",
+        "  1 2 ",
+        " 2   1"
+      ]
+    ]
+  },
+  "ITEM_MIX_CLOTH": {
+    "colors": [
+      "RRYYRR",
+      "RRYYRR",
+      "YYYYYY",
+      "YYYYYY",
+      "RRYYRR",
+      "RRYYRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  1   ",
+        "1  1  ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  11 2",
+        "1 11  ",
+        " 1  2 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_CLOTH_MOFCOT": {
+    "colors": [
+      "RRWWRR",
+      "RRWWRR",
+      "WWRRWW",
+      "WWRRWW",
+      "RRWWRR",
+      "RRWWRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "  1   ",
+        "      ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2 1  ",
+        "    2 ",
+        "1 1   ",
+        "    1 ",
+        " 1 2  ",
+        "      "
+      ],
+      [
+        " 2 1  ",
+        " 2  2 ",
+        "1 1  1",
+        "    1 ",
+        " 1 2  ",
+        "  1   "
+      ]
+    ]
+  },
+  "ITEM_MIX_CLOTH_SP": {
+    "colors": [
+      "RRRWWW",
+      "RYYYYW",
+      "RYRWYW",
+      "GYGBYB",
+      "GYYYYB",
+      "GGGBBB"
+    ],
+    "bonus_levels": [
+      [
+        "    2 ",
+        "  1   ",
+        "   1  ",
+        " 1    ",
+        "    2 ",
+        "      "
+      ],
+      [
+        "2   2 ",
+        "  1   ",
+        "   1  ",
+        " 1    ",
+        "    2 ",
+        "      "
+      ],
+      [
+        "2   2 ",
+        "  1  1",
+        "1  1  ",
+        " 1 1  ",
+        "  2 2 ",
+        "1     "
+      ]
+    ]
+  },
+  "ITEM_MIX_CRAFT": {
+    "colors": [
+      "BBBBGG",
+      "B RR G",
+      "YYYYRY",
+      "YGYYYY",
+      "R GG W",
+      "RRWWWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "   21 ",
+        " 11   ",
+        "      ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "1 1   ",
+        "   21 ",
+        " 11   ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "1 1   ",
+        "  221 ",
+        " 111  ",
+        "   2  ",
+        " 2    "
+      ]
+    ]
+  },
+  "ITEM_MIX_CRIMSON_STONE": {
+    "colors": [
+      "RRBBRR",
+      "WWBBWW",
+      "GGRRGG",
+      "GGRRGG",
+      "WWBBWW",
+      "RRBBRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "  2   ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "      ",
+        "    2 ",
+        "  2   ",
+        "1  1  ",
+        " 2  1 ",
+        "   1  "
+      ],
+      [
+        " 2 1  ",
+        "    2 ",
+        "  2  1",
+        "1  1  ",
+        " 21 1 ",
+        "   1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_DISCIPLINE_TALISMAN": {
+    "colors": [
+      "GWGGYG",
+      "WWWYYY",
+      "GWGGYG",
+      "GRGGBG",
+      "RRRBBB",
+      "GRGGBG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  2   ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        "    1 ",
+        "112   ",
+        "   11 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        " 2  1 ",
+        "112  1",
+        "   11 ",
+        " 1  2 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_DONNER_CRYSTAL": {
+    "colors": [
+      "BB  RR",
+      "BRGRGR",
+      " BGGG ",
+      " GGGY ",
+      "WGWGRY",
+      "WW  YY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "  1   ",
+        "      ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "    2 ",
+        "  1   ",
+        "      ",
+        " 1 22 ",
+        "      "
+      ],
+      [
+        " 2    ",
+        " 2  2 ",
+        "  1 1 ",
+        "      ",
+        " 1 221",
+        "1     "
+      ]
+    ]
+  },
+  "ITEM_MIX_DONNER_STONE": {
+    "colors": [
+      "GGGRYB",
+      "RGWWYB",
+      "GGGRRR",
+      "RRRGGG",
+      "BYWWGR",
+      "BYRGGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2  1 ",
+        "      ",
+        "      ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 2  1 ",
+        "  1   ",
+        "1     ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 2  1 ",
+        "  11 2",
+        "1 2   ",
+        " 1  1 ",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_DUSK_DROPS": {
+    "colors": [
+      "RGRRBR",
+      "GGGBBB",
+      "RGRRBR",
+      "RWRRYR",
+      "WWWYYY",
+      "RWRRYR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        " 1  1 ",
+        "   2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "    2 ",
+        "  1   ",
+        " 1  1 ",
+        "1  2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "2   2 ",
+        "  11 1",
+        " 1  1 ",
+        "1  2  ",
+        "  1 2 ",
+        "     1"
+      ]
+    ]
+  },
+  "ITEM_MIX_ELEMENTAL_CURTAIN": {
+    "colors": [
+      "YYBRRR",
+      "YYBBBG",
+      "WYBBYG",
+      "WYBBYG",
+      "WBBBYY",
+      "RRRBYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   2  ",
+        " 1    ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  2  ",
+        " 1    ",
+        "  21 1",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1  1",
+        "2  2  ",
+        " 1    ",
+        "  21 1",
+        " 1  1 ",
+        "1    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_ELEMENTAL_TEARS": {
+    "colors": [
+      "BBRRBB",
+      "WWBBWW",
+      "RBRRBR",
+      "YBYYBY",
+      "WWBBWW",
+      "BBYYBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  2   ",
+        "    1 ",
+        " 1    ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1 2   ",
+        "   21 ",
+        " 11   ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1 2   ",
+        "  121 ",
+        " 111  ",
+        "   2  ",
+        " 2    "
+      ]
+    ]
+  },
+  "ITEM_MIX_ELIXIR_MYSTERY": {
+    "colors": [
+      "WW  YY",
+      "W WB Y",
+      " WWBB ",
+      " GGWW ",
+      "R GW W",
+      "RR  WW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 2    ",
+        "   2  ",
+        "      ",
+        "      "
+      ],
+      [
+        "      ",
+        "1  1  ",
+        " 2  2 ",
+        "  12  ",
+        "      ",
+        " 1    "
+      ],
+      [
+        " 1   1",
+        "1  1  ",
+        " 2  2 ",
+        " 112  ",
+        "   1  ",
+        "11    "
+      ]
+    ]
+  },
+  "ITEM_MIX_EMERGENCY_BAG": {
+    "colors": [
+      "RYBBWR",
+      "YYYWWW",
+      "YGYWGW",
+      "WGWYGY",
+      "WWWYYY",
+      "RWBBYR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  2   ",
+        "    1 ",
+        "   1  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "1  1  ",
+        "  2   ",
+        " 1  1 ",
+        "   1  ",
+        "  1 2 ",
+        "      "
+      ],
+      [
+        "1  1  ",
+        "  2  1",
+        " 1  1 ",
+        "1  1 1",
+        "  1 2 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_END_FLASHPOINT": {
+    "colors": [
+      " RBB W",
+      "R R WW",
+      "YY WW ",
+      " WR GG",
+      "WW R W",
+      "R BBR "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        " 1    ",
+        "      ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "    2 ",
+        " 1 1  ",
+        "    1 ",
+        " 2 2  ",
+        "      "
+      ],
+      [
+        " 2 2  ",
+        "    2 ",
+        " 1 1  ",
+        "    1 ",
+        " 2 2  ",
+        "1 1   "
+      ]
+    ]
+  },
+  "ITEM_MIX_FAIRY_SIGNPOST": {
+    "colors": [
+      "YGGGGY",
+      "RYGGYB",
+      "RYYYYB",
+      "RYYYYB",
+      "RYWWYB",
+      "YWWWWY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1   ",
+        "    2 ",
+        " 1    ",
+        "   1  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "2 1   ",
+        "   12 ",
+        " 11   ",
+        "   1  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "2 1   ",
+        "  212 ",
+        " 112 2",
+        "   1  ",
+        " 2    "
+      ]
+    ]
+  },
+  "ITEM_MIX_FINEST_HOT_MILK": {
+    "colors": [
+      "GGGRYY",
+      "BBBRRY",
+      "WBBRRY",
+      "WGGBBY",
+      "WGGBBB",
+      "WWGRRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        " 1  1 ",
+        "   2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "  2   ",
+        " 1  1 ",
+        "2  2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "2   1 ",
+        "  21 1",
+        " 1  1 ",
+        "2  2  ",
+        "  1   ",
+        " 1    "
+      ]
+    ]
+  },
+  "ITEM_MIX_FLAME_EMPEROR_POWDER": {
+    "colors": [
+      "RGRRBR",
+      "GGGBBB",
+      "RGRRBR",
+      "RWRRYR",
+      "WWWYYY",
+      "RWRRYR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        " 1  1 ",
+        "   2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "    2 ",
+        "  1   ",
+        " 1  1 ",
+        "1  2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "2   2 ",
+        "  11 1",
+        " 1  1 ",
+        "1  2  ",
+        "  1 2 ",
+        "     1"
+      ]
+    ]
+  },
+  "ITEM_MIX_FLUGEL": {
+    "colors": [
+      "WWYYWW",
+      "YYWWYY",
+      "BBYYBB",
+      "BBYYBB",
+      "YYWWYY",
+      "WWYYWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "  1   ",
+        "    2 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "1  1  ",
+        "  1   ",
+        "  1 2 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2   2",
+        "1  1  ",
+        "  1   ",
+        "1 1 2 ",
+        " 2 1 2",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_FORESIGHT_CRYSTAL": {
+    "colors": [
+      "YYWWYY",
+      "GGWWGG",
+      "RRYYRR",
+      "RRYYRR",
+      "GGWWGG",
+      "YYWWYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "    1 ",
+        " 11   ",
+        "   21 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        " 1  1 ",
+        " 11  2",
+        "   21 ",
+        " 1  1 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_FRAMME": {
+    "colors": [
+      "WWRRYY",
+      "RRGRBR",
+      "RRGRBR",
+      "RGRBRR",
+      "RGRBRR",
+      "YYRRWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   2  ",
+        " 1    ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  2  ",
+        " 1  1 ",
+        "  11  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1  1",
+        "2  2  ",
+        " 1  1 ",
+        "  11  ",
+        " 1    ",
+        "2    2"
+      ]
+    ]
+  },
+  "ITEM_MIX_GEIST_EISEN": {
+    "colors": [
+      "WRRBBW",
+      "RWRBWB",
+      "RRWWBB",
+      "YYWWGG",
+      "YWYGWG",
+      "WYYGGW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2    ",
+        "   2  ",
+        "  1   ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "  1   ",
+        " 2  2 ",
+        "1  2  ",
+        "  1   ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "  1  1",
+        " 2  2 ",
+        "1  2  ",
+        "  1 1 ",
+        " 1  1 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_GOD_LOST": {
+    "colors": [
+      "  BB  ",
+      "RWWWWY",
+      "R WW Y",
+      "G BB R",
+      "GBBBBR",
+      "  WW  "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "      ",
+        "   1  ",
+        "  2   ",
+        "      "
+      ],
+      [
+        "   2  ",
+        "2   2 ",
+        "  2   ",
+        "   1  ",
+        "  2   ",
+        "      "
+      ],
+      [
+        "   2  ",
+        "21  2 ",
+        "  2  2",
+        "   1  ",
+        "1 2   ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_GUILT_MEDICINE": {
+    "colors": [
+      "BBGGBB",
+      "BBGGBB",
+      "GGGGGG",
+      "GGGGGG",
+      "BBGGBB",
+      "BBGGBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1    ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  2   ",
+        "1  1  ",
+        " 1    ",
+        "  12 1",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  2  1",
+        "1  1  ",
+        " 1    ",
+        "  12 1",
+        " 1    ",
+        "1  2 1"
+      ]
+    ]
+  },
+  "ITEM_MIX_HEART_PENDANT": {
+    "colors": [
+      "GGGBBB",
+      "WGWRBR",
+      "WWWRRR",
+      "YYWRWW",
+      "YYGBWW",
+      "YYGBWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 2    ",
+        "    1 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  1  ",
+        " 2    ",
+        "  1 11",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1  2",
+        "2  1  ",
+        " 2    ",
+        "  1 11",
+        " 1    ",
+        "2    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_HEAVENLY_HOUSECLEANING": {
+    "colors": [
+      "Y Y GG",
+      "YYYY G",
+      "Y BRY ",
+      " RRBBB",
+      "W R B ",
+      "WW BBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "      ",
+        " 1  1 ",
+        "      ",
+        "      "
+      ],
+      [
+        "      ",
+        "      ",
+        "    1 ",
+        " 1 21 ",
+        "      ",
+        " 2    "
+      ],
+      [
+        "     1",
+        "      ",
+        "    1 ",
+        " 1 21 ",
+        "1 1   ",
+        " 2   2"
+      ]
+    ]
+  },
+  "ITEM_MIX_HONEY": {
+    "colors": [
+      "YYGGYY",
+      "YYGGYY",
+      "GGYYGG",
+      "GGYYGG",
+      "YYGGYY",
+      "YYGGYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "    1 ",
+        " 11   ",
+        "   21 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        " 1  1 ",
+        " 11  2",
+        "   21 ",
+        " 1  1 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_HONEY_SYRUP": {
+    "colors": [
+      "RRGYYY",
+      "RGGBBB",
+      "RGGBBY",
+      "YBBYYW",
+      "BBBYYW",
+      "GGGYWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1   ",
+        "   1  ",
+        " 2    ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        "  1 1 ",
+        "   1  ",
+        " 2    ",
+        "2   1 ",
+        "      "
+      ],
+      [
+        "1   1 ",
+        "  1 1 ",
+        "1  1  ",
+        " 2 1  ",
+        "2 1 1 ",
+        "1    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_INGOT": {
+    "colors": [
+      "RRRYYY",
+      "RRRYYY",
+      "RRRYYY",
+      "YYYRRR",
+      "YYYRRR",
+      "YYYRRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1   ",
+        "      ",
+        "    1 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "2 1   ",
+        "   2  ",
+        "  1 1 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "2 1 1 ",
+        "   2  ",
+        "1 1 1 ",
+        " 2   2",
+        "   1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_INGOT_SP_1": {
+    "colors": [
+      "RRBBRR",
+      "YYRRBB",
+      "RRYYRR",
+      "GGRRYY",
+      "RRGGRR",
+      "BBRRGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  2   ",
+        "    1 ",
+        " 1    ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1 2   ",
+        "   21 ",
+        " 11   ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1 2   ",
+        "  121 ",
+        " 111  ",
+        "   2  ",
+        " 2    "
+      ]
+    ]
+  },
+  "ITEM_MIX_INGOT_SP_2": {
+    "colors": [
+      "RBBGGR",
+      "BRBGRG",
+      "BBRRGG",
+      "WWRRYY",
+      "WRWYRY",
+      "RWWYYR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1    ",
+        "    1 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "   1  ",
+        " 1  1 ",
+        "  1 1 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2   2",
+        "1  1  ",
+        " 1  1 ",
+        "  1 1 ",
+        " 2 1  ",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_ITEM_KUPTAL_CLOTH": {
+    "colors": [
+      "GGYRGG",
+      "GYYRRG",
+      "YYYRRR",
+      "RRRYYY",
+      "GRRYYG",
+      "GGRYGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   2  ",
+        " 2    ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "1  2  ",
+        " 2    ",
+        "  21 1",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1  1",
+        "1  2  ",
+        " 2    ",
+        "  21 1",
+        " 1    ",
+        "2     "
+      ]
+    ]
+  },
+  "ITEM_MIX_LAMER_WEIZENMEHL": {
+    "colors": [
+      "GGRRGG",
+      "GGRRGG",
+      "RRRRRR",
+      "RRRRRR",
+      "GGRRGG",
+      "GGRRGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "    2 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "    1 ",
+        "  1   ",
+        "1   2 ",
+        " 2 2  ",
+        "      "
+      ],
+      [
+        "1  1  ",
+        " 1  1 ",
+        "  1  2",
+        "1   2 ",
+        " 2 2  ",
+        "    1 "
+      ]
+    ]
+  },
+  "ITEM_MIX_MANA_FEATHER": {
+    "colors": [
+      "WWBRYY",
+      "WWBRYY",
+      "BBBRRR",
+      "RRRBBB",
+      "YYRBWW",
+      "YYRBWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  2   ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        "    1 ",
+        "1 2   ",
+        "   1  ",
+        " 1 2  ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        " 1  1 ",
+        "1 2  2",
+        "  11  ",
+        " 1 2  ",
+        "  1   "
+      ]
+    ]
+  },
+  "ITEM_MIX_MERCURY_EYE": {
+    "colors": [
+      "BBWWYY",
+      "BBBYYY",
+      "WBWWYW",
+      "WGWWRW",
+      "GGGRRR",
+      "GGWWRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "  2 1 ",
+        " 1 1  ",
+        "      ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1     ",
+        "  211 ",
+        " 121  ",
+        "      ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1 1   ",
+        "  211 ",
+        " 121  ",
+        "   2  ",
+        " 2    "
+      ]
+    ]
+  },
+  "ITEM_MIX_NATURAL_YEAST": {
+    "colors": [
+      "YYGGYY",
+      "GGYYGG",
+      "RRGGRR",
+      "RRGGRR",
+      "GGYYGG",
+      "YYGGYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "      ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "      ",
+        "    2 ",
+        "  2   ",
+        "1  1  ",
+        " 2  1 ",
+        "   1  "
+      ],
+      [
+        "   1  ",
+        " 2  2 ",
+        "  2  1",
+        "1  1  ",
+        " 21 1 ",
+        "   1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_NECROMANCER_TRUMPET": {
+    "colors": [
+      " WW RR",
+      " BBYYR",
+      "BGG GY",
+      "GY GGB",
+      "YGGBB ",
+      "YY WW "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "  1   ",
+        "    2 ",
+        "   1  ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "   1  ",
+        " 21   ",
+        " 1  2 ",
+        "   1  ",
+        "    1 "
+      ],
+      [
+        "  1 1 ",
+        "   1 2",
+        " 21 1 ",
+        " 1  2 ",
+        "1  1  ",
+        "    1 "
+      ]
+    ]
+  },
+  "ITEM_MIX_NECTAR_LIFE": {
+    "colors": [
+      "YYWBWB",
+      " YWWW ",
+      "  WB  ",
+      "  GW  ",
+      " WWWR ",
+      "GWGWRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "  2   ",
+        "      ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 1  2 ",
+        "  2   ",
+        "      ",
+        " 1 21 ",
+        "      "
+      ],
+      [
+        "1  2 1",
+        " 1  2 ",
+        "  2   ",
+        "  1   ",
+        " 1 21 ",
+        "    1 "
+      ]
+    ]
+  },
+  "ITEM_MIX_NOBLE_SAPPHIRE": {
+    "colors": [
+      "BGGYYB",
+      "GBGYBY",
+      "GGBBYY",
+      "RRBBWW",
+      "RBRWBW",
+      "BRRWWB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   2  ",
+        " 1    ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "1  2  ",
+        " 1  2 ",
+        "  21  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1  1",
+        "1  2  ",
+        " 1  2 ",
+        "  21  ",
+        " 1  1 ",
+        "2     "
+      ]
+    ]
+  },
+  "ITEM_MIX_ORI_FRAMME": {
+    "colors": [
+      "  YY  ",
+      "RR  RR",
+      "RRYYRR",
+      "WRGGRW",
+      "WW  WW",
+      "  GG  "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        " 1  2 ",
+        "      ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "      ",
+        " 1  2 ",
+        "1 1   ",
+        " 2  1 ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "      ",
+        " 1  2 ",
+        "1 1  1",
+        " 2  1 ",
+        "   2  "
+      ]
+    ]
+  },
+  "ITEM_MIX_PICKING_GLOVES": {
+    "colors": [
+      "WBRRYW",
+      "BGBYGY",
+      "RBBYYR",
+      "RYYBBR",
+      "YGYBGB",
+      "WYRRBW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1   ",
+        "   1  ",
+        " 2    ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "1   2 ",
+        "  1   ",
+        "   1  ",
+        " 2 1  ",
+        "  1 1 ",
+        "      "
+      ],
+      [
+        "1   2 ",
+        "  1  2",
+        "2  1  ",
+        " 2 1  ",
+        "  1 1 ",
+        "2    2"
+      ]
+    ]
+  },
+  "ITEM_MIX_PIROSOTEA": {
+    "colors": [
+      "BYBGGG",
+      "BBBWGW",
+      "RRWBWG",
+      "GWBWWW",
+      "RGWBBB",
+      "GGGBYB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "   2  ",
+        "    1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "1     ",
+        " 1    ",
+        "1 12  ",
+        "    1 ",
+        "  1 1 ",
+        " 1    "
+      ],
+      [
+        "1   2 ",
+        " 1 1  ",
+        "1 12  ",
+        "   111",
+        "  1 1 ",
+        " 1    "
+      ]
+    ]
+  },
+  "ITEM_MIX_PLAIN_WAFFLE": {
+    "colors": [
+      "GBBWRW",
+      "GBBRRR",
+      "GBBRRW",
+      "WRRBBG",
+      "RRRBBG",
+      "WRWBBG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "      ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "    2 ",
+        "  1 1 ",
+        "11 1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "  12  ",
+        " 1 12 ",
+        "  1 11",
+        "11 1  ",
+        " 21  2",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_PRIMORDIAL_FLASHPOINT": {
+    "colors": [
+      "Y WGR ",
+      " WWR R",
+      "WW GR ",
+      " RG WW",
+      "R RWW ",
+      " RGW Y"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  2   ",
+        "   1  ",
+        "    1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "  2   ",
+        " 2 1  ",
+        "    1 ",
+        "  12  ",
+        "      "
+      ],
+      [
+        "2 1   ",
+        "  21 1",
+        " 2 1  ",
+        "    1 ",
+        "2 12  ",
+        " 2   2"
+      ]
+    ]
+  },
+  "ITEM_MIX_PUNIPUNI_MISSILE": {
+    "colors": [
+      "YY RBB",
+      "YRRRBW",
+      " B BBW",
+      "WBB B ",
+      "WBRRRG",
+      "BBR GG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1 2 ",
+        "      ",
+        "      ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 1    ",
+        "  1 2 ",
+        "      ",
+        "2     ",
+        " 2  2 ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        "  1 2 ",
+        "     1",
+        "2     ",
+        " 21 2 ",
+        "2     "
+      ]
+    ]
+  },
+  "ITEM_MIX_PUNI_JELLY": {
+    "colors": [
+      "BBRRGG",
+      "BBBGGW",
+      "WBYYBW",
+      "WBYYBW",
+      "WGGBBB",
+      "GGRRBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1   ",
+        "    1 ",
+        " 1    ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "2 1   ",
+        "   11 ",
+        " 11   ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "2 1   ",
+        "  111 ",
+        " 111 2",
+        "   2  ",
+        " 2   2"
+      ]
+    ]
+  },
+  "ITEM_MIX_PURE_WATER": {
+    "colors": [
+      "GBYYBY",
+      "BBYYBB",
+      "GGBBGG",
+      "GGBBGG",
+      "BBYYBB",
+      "YBYYBG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2  1 ",
+        "      ",
+        "      ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  1   ",
+        "1  1  ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  11 2",
+        "1 11  ",
+        " 1  2 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_REFERN": {
+    "colors": [
+      "RRYWWW",
+      "RBYGGR",
+      "BBBYBR",
+      "RBYBBB",
+      "RGGYBR",
+      "WWWYRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2    ",
+        "   1  ",
+        "  1   ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "  1   ",
+        " 2  1 ",
+        "2  1  ",
+        "  1   ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "  1  2",
+        " 2  1 ",
+        "2  1  ",
+        "  1   ",
+        " 1  1 ",
+        "  2  1"
+      ]
+    ]
+  },
+  "ITEM_MIX_REFRESH_OIL": {
+    "colors": [
+      "GGYRGG",
+      "GYYRRG",
+      "YYYRRR",
+      "RRRYYY",
+      "GRRYYG",
+      "GGRYGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   2  ",
+        " 2    ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "1  2  ",
+        " 2    ",
+        "  21 1",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1  1",
+        "1  2  ",
+        " 2    ",
+        "  21 1",
+        " 1    ",
+        "2     "
+      ]
+    ]
+  },
+  "ITEM_MIX_REFUEL_BOTTLE": {
+    "colors": [
+      "YGGWWB",
+      "YGGBBB",
+      "YG BBB",
+      "BBB GY",
+      "BBBGGY",
+      "BWWGGY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "   2  ",
+        "  1   ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "      ",
+        " 1  1 ",
+        "   2  ",
+        "  1  1",
+        " 2  1 ",
+        "   1  "
+      ],
+      [
+        "  2   ",
+        " 1  1 ",
+        "11 2  ",
+        "1 1  1",
+        " 2  1 ",
+        "   1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_RUBYLIUM": {
+    "colors": [
+      "WWRGWW",
+      "WRRGGW",
+      "RRRGGG",
+      "GGGRRR",
+      "WGGRRW",
+      "WWGRWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "    1 ",
+        " 11   ",
+        "   21 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        " 1  1 ",
+        " 11  2",
+        "   21 ",
+        " 1  1 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_SALAMANDER": {
+    "colors": [
+      "WWRRWW",
+      "RBRRBR",
+      "YRGBRY",
+      "YRBGRY",
+      "RBRRBR",
+      "WWRRWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        " 2    ",
+        "    1 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 1  1 ",
+        " 2    ",
+        "1   1 ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 1  1 ",
+        " 2  22",
+        "1   1 ",
+        " 1  1 ",
+        "  1   "
+      ]
+    ]
+  },
+  "ITEM_MIX_SAVIOR_SOUL": {
+    "colors": [
+      " GRWB ",
+      "GR YWB",
+      "R RWYW",
+      "YWYR R",
+      "BYW RG",
+      " BYRG "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2    ",
+        "      ",
+        "  12  ",
+        "      ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "12  1 ",
+        "      ",
+        "  12  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "  1 2 ",
+        "12  1 ",
+        "      ",
+        "  12  ",
+        " 2   2",
+        " 1    "
+      ]
+    ]
+  },
+  "ITEM_MIX_SEALED_BOOK": {
+    "colors": [
+      "B BB B",
+      "WWWYYY",
+      "W WW Y",
+      "BRWWGB",
+      " RRGG ",
+      "BRRGGB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2    ",
+        "      ",
+        "  2   ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "  1  1",
+        " 2  1 ",
+        "   1  ",
+        "  2   ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "  1  1",
+        " 2  1 ",
+        "   1  ",
+        "  2 2 ",
+        " 1  1 ",
+        "  2  1"
+      ]
+    ]
+  },
+  "ITEM_MIX_SILVERIA": {
+    "colors": [
+      "BRGGRG",
+      "RRGGRR",
+      "BBRRBB",
+      "BBRRBB",
+      "RRGGRR",
+      "GRGGRB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "      ",
+        " 1    ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "   2  ",
+        "1   2 ",
+        "  2   ",
+        " 1  1 ",
+        "  1   ",
+        "     1"
+      ],
+      [
+        "   2  ",
+        "12  2 ",
+        "  2  1",
+        " 1  1 ",
+        "  11  ",
+        "     1"
+      ]
+    ]
+  },
+  "ITEM_MIX_SMALL_DEVIL_MISCHIEF": {
+    "colors": [
+      "WYGGRW",
+      "YGYRBR",
+      "BYYRRB",
+      "BRRYYB",
+      "RBRYGY",
+      "WRGGYW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  2   ",
+        "    1 ",
+        "      ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "  1 1 ",
+        "  2   ",
+        "2   1 ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "1  1  ",
+        " 11 1 ",
+        "  2  1",
+        "2 1 1 ",
+        "   2  ",
+        " 1    "
+      ]
+    ]
+  },
+  "ITEM_MIX_SNOWFLAKE_CRYSTAL": {
+    "colors": [
+      "BBRRBB",
+      "RRBBRR",
+      "YYRRYY",
+      "YYRRYY",
+      "RRBBRR",
+      "BBRRBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  1   ",
+        "   1  ",
+        " 1    ",
+        "    2 ",
+        "      "
+      ],
+      [
+        "2   2 ",
+        "  1   ",
+        "   1  ",
+        " 1    ",
+        "    2 ",
+        "      "
+      ],
+      [
+        "2   2 ",
+        "  1  1",
+        "1  1  ",
+        " 1 1  ",
+        "  2 2 ",
+        "1     "
+      ]
+    ]
+  },
+  "ITEM_MIX_SOPHINANSHU": {
+    "colors": [
+      "RRBGBG",
+      "RRYGGG",
+      " YWG  ",
+      "  YWY ",
+      "YYGYRR",
+      "YBYBRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "      ",
+        "  2   ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  1  ",
+        "      ",
+        "  2   ",
+        " 1 2 1",
+        "      "
+      ],
+      [
+        "  1 2 ",
+        "21 1 1",
+        "      ",
+        "  2   ",
+        " 1 2 1",
+        "    1 "
+      ]
+    ]
+  },
+  "ITEM_MIX_SOTEA": {
+    "colors": [
+      "YYBGRW",
+      "YBBGRR",
+      "BBBGGG",
+      "GGGBBB",
+      "RRGBBY",
+      "WRGBYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1  1 ",
+        "      ",
+        "      ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 1  1 ",
+        "2     ",
+        "  11  ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 1  1 ",
+        "2 22  ",
+        "  11  ",
+        " 1  2 ",
+        "  1   "
+      ]
+    ]
+  },
+  "ITEM_MIX_SPECIAL_BACKPACK": {
+    "colors": [
+      "YRYBBB",
+      "RRRGGB",
+      "YRYYGY",
+      "YBYYWY",
+      "GBBWWW",
+      "GGGYWY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "      ",
+        " 2    ",
+        "  2   ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "1   1 ",
+        "  1   ",
+        " 2  1 ",
+        "  2   ",
+        "     1"
+      ],
+      [
+        "   1  ",
+        "12  1 ",
+        "  1  2",
+        " 2  1 ",
+        "  22  ",
+        "2    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_SPRUCE": {
+    "colors": [
+      "GGBBGG",
+      "GGBBGG",
+      "BBGGBB",
+      "BBGGBB",
+      "GGBBGG",
+      "GGBBGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2  1 ",
+        "      ",
+        "      ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  1   ",
+        "1  1  ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  11 2",
+        "1 11  ",
+        " 1  2 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_SP_ITEM_201": {
+    "colors": [
+      "GGBBGG",
+      "GGBBGG",
+      "BBGGBB",
+      "BBGGBB",
+      "GGBBGG",
+      "GGBBGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2  1 ",
+        "      ",
+        "      ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  1   ",
+        "1  1  ",
+        " 1  2 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 2  1 ",
+        "  11 2",
+        "1 11  ",
+        " 1  2 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_SP_ITEM_202": {
+    "colors": [
+      "YYGGYY",
+      "YYGGYY",
+      "GGYYGG",
+      "GGYYGG",
+      "YYGGYY",
+      "YYGGYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "    1 ",
+        " 11   ",
+        "   21 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        " 1  1 ",
+        " 11  2",
+        "   21 ",
+        " 1  1 ",
+        "     2"
+      ]
+    ]
+  },
+  "ITEM_MIX_SP_ITEM_203": {
+    "colors": [
+      "WBWWRW",
+      "BBBRRR",
+      "WBWWRW",
+      "WYWWGW",
+      "YYYGGG",
+      "WYWWGW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "      ",
+        "  2 2 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "  11  ",
+        "    1 ",
+        "1 2 2 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        " 2   2",
+        "  11  ",
+        "    1 ",
+        "1 2 2 ",
+        "  11  ",
+        " 1    "
+      ]
+    ]
+  },
+  "ITEM_MIX_SP_KETTLE_001": {
+    "colors": [
+      "WRRBWW",
+      "WRRBBB",
+      "RWRBWB",
+      "GWGYWY",
+      "GGGYYW",
+      "WWGYYW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 2    ",
+        "    1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        " 1    ",
+        "  11  ",
+        " 2  1 ",
+        "1 1 1 ",
+        "  1   ",
+        "      "
+      ],
+      [
+        " 1   2",
+        "  11  ",
+        " 2  1 ",
+        "1 1 1 ",
+        "  12  ",
+        " 2   2"
+      ]
+    ]
+  },
+  "ITEM_MIX_SP_KETTLE_002": {
+    "colors": [
+      "WBBGGW",
+      "BBWWGG",
+      "BWBGWG",
+      "YWYRWR",
+      "YYWWRR",
+      "WYYRRW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "    2 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "    1 ",
+        "  1   ",
+        "2   2 ",
+        " 1 2  ",
+        "      "
+      ],
+      [
+        "2  1  ",
+        " 1  1 ",
+        "  1  2",
+        "2 2 2 ",
+        " 1 2  ",
+        "    1 "
+      ]
+    ]
+  },
+  "ITEM_MIX_SP_KETTLE_003": {
+    "colors": [
+      "GGGYYY",
+      "GWGYWY",
+      "YBWWRG",
+      "YBWWRG",
+      "RWRBWB",
+      "RRRBBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        " 1    ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  1  ",
+        " 1  1 ",
+        "  12  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1  2",
+        "2  1  ",
+        " 1  1 ",
+        "  12  ",
+        " 1    ",
+        "2    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_STARK_METAL": {
+    "colors": [
+      "BRRRRB",
+      "RRBBRR",
+      "RBRRBR",
+      "RBRRBR",
+      "RRBBRR",
+      "BRRRRB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "   1  ",
+        "      ",
+        "  2   ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  1  ",
+        "    2 ",
+        "1 2   ",
+        " 1 1  ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "2  1 1",
+        "    2 ",
+        "1 2   ",
+        " 1 1  ",
+        "    2 "
+      ]
+    ]
+  },
+  "ITEM_MIX_STARK_REFERN": {
+    "colors": [
+      " WWBB ",
+      " WBGB ",
+      "Y BG Y",
+      "Y GB Y",
+      " BGBW ",
+      " BBWW "
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1    ",
+        "  1   ",
+        "   2  ",
+        "      ",
+        "      "
+      ],
+      [
+        "      ",
+        " 1    ",
+        "2 11  ",
+        "   2  ",
+        "    1 ",
+        "      "
+      ],
+      [
+        "      ",
+        " 1 2  ",
+        "2 11  ",
+        "   2 1",
+        "  1 1 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_SUN_DROPS": {
+    "colors": [
+      "RGRRBR",
+      "GGGBBB",
+      "RGRRBR",
+      "RWRRYR",
+      "WWWYYY",
+      "RWRRYR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        " 1  1 ",
+        "   2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "    2 ",
+        "  1   ",
+        " 1  1 ",
+        "1  2  ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "2   2 ",
+        "  11 1",
+        " 1  1 ",
+        "1  2  ",
+        "  1 2 ",
+        "     1"
+      ]
+    ]
+  },
+  "ITEM_MIX_TIMEWORN_ALCHEMY_KETTLE": {
+    "colors": [
+      "WRWWYW",
+      "RRRYYY",
+      "GRWWBY",
+      "GRWWBY",
+      "GGGBBB",
+      "WGWWBW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  2   ",
+        "   1  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 1  1 ",
+        "  2   ",
+        "2  1  ",
+        " 1  1 ",
+        "      "
+      ],
+      [
+        "   1  ",
+        " 1  1 ",
+        "  22 2",
+        "2 11  ",
+        " 1  1 ",
+        "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_TRAVELER_SHOES": {
+    "colors": [
+      "GYBBYG",
+      "RGYYGR",
+      "WRGGRW",
+      "WRGGRW",
+      "RGYYGR",
+      "GYBBYG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        " 1    ",
+        "   2  ",
+        " 1    ",
+        "      "
+      ],
+      [
+        "  1   ",
+        "    1 ",
+        " 11   ",
+        "1  2  ",
+        " 1  1 ",
+        "   1  "
+      ],
+      [
+        "  11  ",
+        " 1  1 ",
+        " 11  2",
+        "1  2  ",
+        " 12 1 ",
+        "2  1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_UNIVERSAL_ACCELERATOR": {
+    "colors": [
+      "YYYGRR",
+      "YGGGGR",
+      "YGBBGG",
+      "GGBBGW",
+      "RGGGGW",
+      "RRGWWW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 1  1 ",
+        "      ",
+        "      ",
+        " 2  1 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 1  1 ",
+        "  1   ",
+        "1  1  ",
+        " 2  1 ",
+        "      "
+      ],
+      [
+        "   2  ",
+        " 1  1 ",
+        "  12  ",
+        "1 21 2",
+        " 2  1 ",
+        "  2   "
+      ]
+    ]
+  },
+  "ITEM_MIX_UNIVERSAL_AMULET_INCENSE": {
+    "colors": [
+      "RRGGWW",
+      "RGRRGW",
+      "GRGGRG",
+      "GRGGRG",
+      "BGRRGY",
+      "BBGGYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        " 12   ",
+        "   1  ",
+        "      ",
+        "      "
+      ],
+      [
+        " 2    ",
+        "    1 ",
+        " 12   ",
+        "   11 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        " 2    ",
+        " 2  1 ",
+        " 12  2",
+        "   11 ",
+        " 2  1 ",
+        "2    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_UNIVERSAL_MEDICINE": {
+    "colors": [
+      "RRBBRR",
+      "WWBBWW",
+      "GGRRGG",
+      "GGRRGG",
+      "WWBBWW",
+      "RRBBRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "  2   ",
+        "   1  ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "      ",
+        "    2 ",
+        "  2   ",
+        "1  1  ",
+        " 2  1 ",
+        "   1  "
+      ],
+      [
+        " 2 1  ",
+        "    2 ",
+        "  2  1",
+        "1  1  ",
+        " 21 1 ",
+        "   1  "
+      ]
+    ]
+  },
+  "ITEM_MIX_UNI_BAG": {
+    "colors": [
+      "BGYYWG",
+      "WYYYYB",
+      "RYRRYR",
+      "RYRRYR",
+      "WYYYYB",
+      "GBYYGW"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  1   ",
+        "    1 ",
+        " 2    ",
+        "      "
+      ],
+      [
+        "   2  ",
+        "    1 ",
+        "  1   ",
+        "2   1 ",
+        " 2 1  ",
+        "      "
+      ],
+      [
+        "1  2  ",
+        "    1 ",
+        "  1  1",
+        "2 2 1 ",
+        " 2 1  ",
+        "    1 "
+      ]
+    ]
+  },
+  "ITEM_MIX_VERHEIT": {
+    "colors": [
+      "BBRRBB",
+      "WWBBWW",
+      "RBRRBR",
+      "YBYYBY",
+      "WWBBWW",
+      "BBYYBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  2   ",
+        "    1 ",
+        " 1    ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1 2   ",
+        "   21 ",
+        " 11   ",
+        "   2  ",
+        "      "
+      ],
+      [
+        "    1 ",
+        "1 2   ",
+        "  121 ",
+        " 111  ",
+        "   2  ",
+        " 2    "
+      ]
+    ]
+  },
+  "ITEM_MIX_WINNER_TALISMAN": {
+    "colors": [
+      "RWRRYR",
+      "WWWYYY",
+      "RWRRYR",
+      "RGRRBR",
+      "GGGBBB",
+      "RGRRBR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "   11 ",
+        "  2   ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        "      ",
+        " 1 11 ",
+        "1 2 1 ",
+        " 1    ",
+        "      "
+      ],
+      [
+        " 1 1  ",
+        "1     ",
+        " 1 11 ",
+        "1 2 1 ",
+        " 1 2  ",
+        "  1  1"
+      ]
+    ]
+  },
+  "ITEM_MIX_WITCH_TRUMPET": {
+    "colors": [
+      "BGGGWR",
+      "BGGWWR",
+      "YYGWYY",
+      "YYWGYY",
+      "RWWGGB",
+      "RWGGGB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "  2   ",
+        "   1  ",
+        " 1    ",
+        "    1 ",
+        "      "
+      ],
+      [
+        " 2  2 ",
+        "  2   ",
+        "   11 ",
+        " 1    ",
+        "    1 ",
+        "      "
+      ],
+      [
+        " 2  2 ",
+        "  2  1",
+        "1  11 ",
+        " 1    ",
+        "  1 1 ",
+        "1    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_ZETTEL": {
+    "colors": [
+      "BRGGRG",
+      "RRGGRR",
+      "BBRRBB",
+      "BBRRBB",
+      "RRGGRR",
+      "GRGGRB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    2 ",
+        "      ",
+        " 1    ",
+        "  1   ",
+        "      "
+      ],
+      [
+        "   2  ",
+        "1   2 ",
+        "  2   ",
+        " 1  1 ",
+        "  1   ",
+        "     1"
+      ],
+      [
+        "   2  ",
+        "12  2 ",
+        "  2  1",
+        " 1  1 ",
+        "  11  ",
+        "     1"
+      ]
+    ]
+  }
+}

@@ -1151,6 +1151,42 @@
       ]
     ]
   },
+  "ITEM_MIX_BLUE_NEUTLIZER": {
+    "colors": [
+      "BBBBBB",
+      "BBBBBB",
+      "BBBBBB",
+      "BBBBBB",
+      "BBBBBB",
+      "BBBBBB"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        " 2    ",
+        "   1  ",
+        "      ",
+        "      "
+      ],
+      [
+        "    2 ",
+        "  1   ",
+        " 2    ",
+        "1  1  ",
+        " 2    ",
+        "   1  "
+      ],
+      [
+        "1   2 ",
+        "  1   ",
+        " 2    ",
+        "1 11  ",
+        " 2  2 ",
+        "   1 1"
+      ]
+    ]
+  },
   "ITEM_MIX_BOTTLING_MISFORTUNE": {
     "colors": [
       "BBRRWW",
@@ -2087,6 +2123,42 @@
       ]
     ]
   },
+  "ITEM_MIX_GREEN_NEUTLIZER": {
+    "colors": [
+      "GGGGGG",
+      "GGGGGG",
+      "GGGGGG",
+      "GGGGGG",
+      "GGGGGG",
+      "GGGGGG"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "      ",
+        "    1 ",
+        "      ",
+        "  2   ",
+        "      "
+      ],
+      [
+        "2    1",
+        "   2  ",
+        " 2  1 ",
+        "1     ",
+        "  2   ",
+        "      "
+      ],
+      [
+        "2    1",
+        "  12  ",
+        " 2  1 ",
+        "1  1  ",
+        "  2   ",
+        " 1  1 "
+      ]
+    ]
+  },
   "ITEM_MIX_GUILT_MEDICINE": {
     "colors": [
       "BBGGBB",
@@ -2948,6 +3020,42 @@
         "1 11  ",
         " 1  2 ",
         "      "
+      ]
+    ]
+  },
+  "ITEM_MIX_RED_NEUTLIZER": {
+    "colors": [
+      "RRRRRR",
+      "RRRRRR",
+      "RRRRRR",
+      "RRRRRR",
+      "RRRRRR",
+      "RRRRRR"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        "    1 ",
+        "  2   ",
+        "      ",
+        "      ",
+        "      "
+      ],
+      [
+        "   1  ",
+        "2   1 ",
+        "  2   ",
+        "   2  ",
+        " 1    ",
+        "     1"
+      ],
+      [
+        "   1  ",
+        "2   1 ",
+        "  2  1",
+        "1  2  ",
+        " 11   ",
+        "2    1"
       ]
     ]
   },
@@ -4100,6 +4208,42 @@
         " 1    ",
         "  1 1 ",
         "1    1"
+      ]
+    ]
+  },
+  "ITEM_MIX_YELLOW_NEUTLIZER": {
+    "colors": [
+      "YYYYYY",
+      "YYYYYY",
+      "YYYYYY",
+      "YYYYYY",
+      "YYYYYY",
+      "YYYYYY"
+    ],
+    "bonus_levels": [
+      [
+        "      ",
+        " 2    ",
+        "      ",
+        "      ",
+        "   1  ",
+        "      "
+      ],
+      [
+        " 1  2 ",
+        " 2    ",
+        "1 1   ",
+        "    2 ",
+        "   1  ",
+        "      "
+      ],
+      [
+        " 1  2 ",
+        " 2 1  ",
+        "1 1  1",
+        " 2  2 ",
+        "   1  ",
+        "1     "
       ]
     ]
   },

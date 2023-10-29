@@ -35,7 +35,7 @@ This file lists the ingredients for each crafting recipe. Each ingredient can ei
   ],
 ```
 
-Thanks to `a.whim` on Discord for extracting this information.
+Thanks to `a.whim` on Discord for cataloging this information.
 
 ## `item_boards.json`
 
@@ -87,7 +87,7 @@ Example data:
   },
 ```
 
-Thanks to `a.whim` on Discord for extracting this information.
+Thanks to `a.whim` on Discord for cataloging this information.
 
 ## `shapes.json`
 
@@ -135,4 +135,4 @@ xxx
 ...
 ```
 
-Thanks to `a.whim` on Discord for extracting this information.
+Thanks to `a.whim` on Discord for cataloging this information.

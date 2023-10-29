@@ -2,13 +2,40 @@
 
 ## `categories.json`
 
-This file contains a map with all categories, including their english name. The order of this map matches the internal order of the game.
+This file contains a map with all categories, including their English name. The order of this map matches the internal order of the game.
 
 ```json
     "ITEM_CATEGORY_ACCESSORY": {
         "name": "(Accessory)"
     },
 ```
+
+## `ingredients.json`
+
+This file lists the ingredients for each crafting recipe. Each ingredient can either be a category (recognized by the `ITEM_CATEGORY_` prefix) or an item (recognized by an `ITEM_` prefix that is not followed by `CATEGORY_`).
+
+```json
+  "ITEM_ACC_AMBROSIA_COROLLA": [
+    {
+      "ingredient": "ITEM_MIX_CRIMSON_STONE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_DUNKELHEIT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_VINES_TWINE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    }
+  ],
+```
+
+Thanks to `a.whim` on Discord for extracting this information.
 
 ## `item_boards.json`
 

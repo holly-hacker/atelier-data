@@ -1,0 +1,2103 @@
+{
+  "ITEM_ACC_AMBROSIA_COROLLA": [
+    {
+      "ingredient": "ITEM_MIX_CRIMSON_STONE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_DUNKELHEIT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_VINES_TWINE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    }
+  ],
+  "ITEM_ACC_ANGEL_RIBBON": [
+    {
+      "ingredient": "ITEM_MAT_HOLY_WATER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_BUNDLED_GOLD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 2
+    }
+  ],
+  "ITEM_ACC_CHRONICLE_MARK": [
+    {
+      "ingredient": "ITEM_MAT_ANCIENT_STONE_PILLAR",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_ELEMENT_SHIELD": [
+    {
+      "ingredient": "ITEM_MAT_ELEMENT_CRYSTAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_ELEMENTAL_TEARS",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_FRATERNAL_PERSONA": [
+    {
+      "ingredient": "ITEM_MAT_KIFA",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_SUSPICIOUS_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_WOOD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_GREEN_FEATHERS": [
+    {
+      "ingredient": "ITEM_MAT_DEMON_BIRD_FEATHER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    }
+  ],
+  "ITEM_ACC_GUNADE_RING": [
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_HUSTLE_BELT": [
+    {
+      "ingredient": "ITEM_MAT_BEAST_FUR",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_INCANDESCENT_HEADBAND": [
+    {
+      "ingredient": "ITEM_MAT_BEAST_FUR",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    }
+  ],
+  "ITEM_ACC_LIFE_BANGLE": [
+    {
+      "ingredient": "ITEM_MIX_NECTAR_LIFE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_MANIPULATE_HOURGLASS": [
+    {
+      "ingredient": "ITEM_MIX_FORESIGHT_CRYSTAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_SUN_POWDER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_STAR_POWDER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    }
+  ],
+  "ITEM_ACC_MEISTER_MITTENS": [
+    {
+      "ingredient": "ITEM_MIX_CLOTH",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_BEAST_FUR",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_MONOCHROME_GLASS": [
+    {
+      "ingredient": "ITEM_MAT_SMALL_CRYSTAL_PIECES",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POISON",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_MONOCLE_MINDS_EYE": [
+    {
+      "ingredient": "ITEM_MIX_FORESIGHT_CRYSTAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_ACC_SPIRIT_EARRINGS": [
+    {
+      "ingredient": "ITEM_MAT_PENDEROCK",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    }
+  ],
+  "ITEM_BOOK_RECIPE_01": [],
+  "ITEM_BOOK_RECIPE_02": [],
+  "ITEM_BOOK_RECIPE_03": [],
+  "ITEM_BOOK_RECIPE_04": [],
+  "ITEM_BOOK_RECIPE_05": [],
+  "ITEM_BOOK_RECIPE_06": [],
+  "ITEM_BOOK_RECIPE_07": [],
+  "ITEM_BOOK_RECIPE_08": [],
+  "ITEM_KEY_ITEM_003": [],
+  "ITEM_KEY_ITEM_004": [
+    {
+      "ingredient": "ITEM_KEY_ITEM_003",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 1
+    }
+  ],
+  "ITEM_KEY_ITEM_005": [
+    {
+      "ingredient": "ITEM_MIX_SUN_DROPS",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_OBORO_PETAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_ANCIENT_DRAGON_SCALE",
+      "count": 1
+    }
+  ],
+  "ITEM_KEY_ITEM_006": [
+    {
+      "ingredient": "ITEM_MIX_SILVERIA",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_RARE_MATAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_KEY_ITEM_007": [
+    {
+      "ingredient": "ITEM_MAT_PENDEGRUN",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_INGOT",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 2
+    }
+  ],
+  "ITEM_KEY_ITEM_010": [
+    {
+      "ingredient": "ITEM_MAT_SILVER_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_KEY_ITEM_011": [
+    {
+      "ingredient": "ITEM_MAT_BOTTOM_SOIL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_SEABED_SOIL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_KEY_ITEM_012": [
+    {
+      "ingredient": "ITEM_KEY_ITEM_014",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_KEY_ITEM_013": [],
+  "ITEM_KEY_ITEM_014": [],
+  "ITEM_MAT_AFTERLIFE_LILIES": [],
+  "ITEM_MAT_ANCIENT_DRAGON_SCALE": [],
+  "ITEM_MAT_ANCIENT_STONE_PILLAR": [],
+  "ITEM_MAT_ARUTARU": [],
+  "ITEM_MAT_BASTARDS_PIECES": [],
+  "ITEM_MAT_BEAST_FUR": [],
+  "ITEM_MAT_BEAUTIFUL_PIECES": [],
+  "ITEM_MAT_BEAUTIFUL_SEASHELL": [],
+  "ITEM_MAT_BLACK_MASS": [],
+  "ITEM_MAT_BLUE_CRYSTAL": [],
+  "ITEM_MAT_BOTTOM_SOIL": [],
+  "ITEM_MAT_BURNT_PIECES": [],
+  "ITEM_MAT_BURST_BERRY": [],
+  "ITEM_MAT_CHURCH_AMULETS": [],
+  "ITEM_MAT_COBALT_GRASS": [],
+  "ITEM_MAT_CRIMSON_GRASS": [],
+  "ITEM_MAT_DELICIOUS_WATER": [],
+  "ITEM_MAT_DEMON_BIRD_FEATHER": [],
+  "ITEM_MAT_DEVIOUS_CORE": [],
+  "ITEM_MAT_DRAGON_BLOOD_CRYSTAL": [],
+  "ITEM_MAT_DRAGON_CORE": [],
+  "ITEM_MAT_DRAGON_SCALE": [],
+  "ITEM_MAT_DRIED_GRASS": [],
+  "ITEM_MAT_DUNKELHEIT": [],
+  "ITEM_MAT_DUNKELSTERN": [],
+  "ITEM_MAT_DUSK_FUR": [],
+  "ITEM_MAT_EISEN_MINERAL": [],
+  "ITEM_MAT_ELEMENT_CRYSTAL": [],
+  "ITEM_MAT_FADENRITE": [],
+  "ITEM_MAT_FAILURE_ASH": [],
+  "ITEM_MAT_FAIRY_POISONOUS_GRASS": [],
+  "ITEM_MAT_FORGOTTEN_BRANCH": [],
+  "ITEM_MAT_FORGOTTEN_JEWEL": [],
+  "ITEM_MAT_FORGOTTEN_ORE": [],
+  "ITEM_MAT_FORGOTTEN_PARTS": [],
+  "ITEM_MAT_GARDEN_MAIDEN": [],
+  "ITEM_MAT_GOLDEN_PUNIPUNI_BALL": [],
+  "ITEM_MAT_GOLD_THREAD": [],
+  "ITEM_MAT_HAKUREI_STONE": [],
+  "ITEM_MAT_HOLY_WATER": [],
+  "ITEM_MAT_HONEY_BEEHIVE": [],
+  "ITEM_MAT_INFORMAL_STONE": [],
+  "ITEM_MAT_ISLAND_FISH_FIN": [],
+  "ITEM_MAT_KAREN_STONE": [],
+  "ITEM_MAT_KIFA": [],
+  "ITEM_MAT_KIRUHEN_MILK": [],
+  "ITEM_MAT_KUPFER_MINERAL": [],
+  "ITEM_MAT_LAMER_WEIZEN": [],
+  "ITEM_MAT_LITHOGRAPH": [],
+  "ITEM_MAT_LUXURY_CHURCH_AMULETS": [],
+  "ITEM_MAT_MAGIC_GRASS": [],
+  "ITEM_MAT_MALLEABLE_MATERIA": [],
+  "ITEM_MAT_MOSSY_WOOD": [],
+  "ITEM_MAT_MUD_DUMPLING": [],
+  "ITEM_MAT_MYSTIC_HERB": [],
+  "ITEM_MAT_NATURE_OIL": [],
+  "ITEM_MAT_NIGHT_CRYSTAL": [],
+  "ITEM_MAT_NIGHT_GLOW_WATER": [],
+  "ITEM_MAT_NITRO_WATER": [],
+  "ITEM_MAT_OBORO_PETAL": [],
+  "ITEM_MAT_PEAK_COTTON": [],
+  "ITEM_MAT_PELREM_SHELL": [],
+  "ITEM_MAT_PENDEGRUN": [],
+  "ITEM_MAT_PENDEROCK": [],
+  "ITEM_MAT_PIOUS_CHURCH_AMULETS": [],
+  "ITEM_MAT_PUNIPUNI_BALL": [],
+  "ITEM_MAT_PUNI_LIQUID": [],
+  "ITEM_MAT_RAINBOW_CRYSTAL_PIECES": [],
+  "ITEM_MAT_RAINBOW_PUNI_LIQUID": [],
+  "ITEM_MAT_RARE_MATAL": [],
+  "ITEM_MAT_RED_UNI": [],
+  "ITEM_MAT_REIDEN_MINERAL": [],
+  "ITEM_MAT_SAFLOR_OIL": [],
+  "ITEM_MAT_SCRAP_PAPER": [],
+  "ITEM_MAT_SEABED_SOIL": [],
+  "ITEM_MAT_SILVER_POTATO": [],
+  "ITEM_MAT_SILVER_SPIRIT_CRYSTAL": [],
+  "ITEM_MAT_SILVER_THREAD": [],
+  "ITEM_MAT_SMALL_CRYSTAL_PIECES": [],
+  "ITEM_MAT_SMELL_PIECES": [],
+  "ITEM_MAT_SOIL_POTATO": [],
+  "ITEM_MAT_SP_ITEM_001": [],
+  "ITEM_MAT_SP_ITEM_002": [],
+  "ITEM_MAT_SP_ITEM_003": [],
+  "ITEM_MAT_SP_ITEM_004": [],
+  "ITEM_MAT_STAR_POWDER": [],
+  "ITEM_MAT_STRONG_BONES": [],
+  "ITEM_MAT_SUN_POWDER": [],
+  "ITEM_MAT_SUSPICIOUS_LIQUID": [],
+  "ITEM_MAT_UNI": [],
+  "ITEM_MAT_UNIDENTFIED_EGG": [],
+  "ITEM_MAT_VINES_TWINE": [],
+  "ITEM_MAT_WEIZENMEHL": [],
+  "ITEM_MAT_WELL_WATER": [],
+  "ITEM_MAT_WHIM_STRAWBERRY": [],
+  "ITEM_MAT_WHITE_PRINCESS_GRASS": [],
+  "ITEM_MIX_ALCHEMYST_KETTLE": [
+    {
+      "ingredient": "ITEM_MIX_ALCHEMYST_KETTLE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_ALCHEMY_CLAY",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MAGICITEM",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ALCHEMY_CLAY": [
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 4
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ALCHEMY_DROP": [
+    {
+      "ingredient": "ITEM_MAT_WHIM_STRAWBERRY",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_MIX_HONEY",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ALCHEMY_STONE": [
+    {
+      "ingredient": "ITEM_MIX_CRIMSON_STONE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_FAILURE_ASH",
+      "count": 5
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ALIVE_CART": [
+    {
+      "ingredient": "ITEM_MIX_SPRUCE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ALL_THINGS_MANUSCRIPT": [
+    {
+      "ingredient": "ITEM_MIX_ZETTEL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_PENDEROCK",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_AMULET_TALISMAN": [
+    {
+      "ingredient": "ITEM_MAT_PIOUS_CHURCH_AMULETS",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_HOLY_WATER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ANGEL_WHISPER": [
+    {
+      "ingredient": "ITEM_MAT_HOLY_WATER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_PENDEROCK",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_APCALL": [
+    {
+      "ingredient": "ITEM_MAT_WHIM_STRAWBERRY",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_BAGEL_SAND": [
+    {
+      "ingredient": "ITEM_MIX_LAMER_WEIZENMEHL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FOODSTUFF",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_BAKED_GOODS": [
+    {
+      "ingredient": "ITEM_MAT_UNI",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE": [
+    {
+      "ingredient": "ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_ALCHEMY_CLAY",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MAGICITEM",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_BLITZRITE": [
+    {
+      "ingredient": "ITEM_MAT_REIDEN_MINERAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_NITRO_WATER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_BLUE_NEUTLIZER": [
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_BOTTLING_MISFORTUNE": [
+    {
+      "ingredient": "ITEM_MAT_SUSPICIOUS_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_PENDEROCK",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_BREEZE_AROMA": [
+    {
+      "ingredient": "ITEM_MIX_REFRESH_OIL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_BUNDLED_GOLD": [
+    {
+      "ingredient": "ITEM_MAT_SILVER_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_CLEAR_DROP": [
+    {
+      "ingredient": "ITEM_MIX_ALCHEMY_DROP",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FOODSTUFF",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_CLOTH": [
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_CLOTH_MOFCOT": [
+    {
+      "ingredient": "ITEM_MAT_PEAK_COTTON",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_CLOTH_SP": [
+    {
+      "ingredient": "ITEM_MAT_GOLD_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_RAINBOW_PUNI_LIQUID",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_CRAFT": [
+    {
+      "ingredient": "ITEM_MIX_UNI_BAG",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_CRIMSON_STONE": [
+    {
+      "ingredient": "ITEM_MAT_DRAGON_BLOOD_CRYSTAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_STAR_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_DISCIPLINE_TALISMAN": [
+    {
+      "ingredient": "ITEM_MAT_LUXURY_CHURCH_AMULETS",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_WOOD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_DONNER_CRYSTAL": [
+    {
+      "ingredient": "ITEM_MIX_DONNER_STONE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_BLITZRITE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_DONNER_STONE": [
+    {
+      "ingredient": "ITEM_MAT_REIDEN_MINERAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_DUSK_DROPS": [
+    {
+      "ingredient": "ITEM_MAT_SUSPICIOUS_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_FAIRY_POISONOUS_GRASS",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ELEMENTAL_CURTAIN": [
+    {
+      "ingredient": "ITEM_MAT_SILVER_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_ELEMENTAL_TEARS": [
+    {
+      "ingredient": "ITEM_MAT_SILVER_SPIRIT_CRYSTAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_SMALL_CRYSTAL_PIECES",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_PURE_WATER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ELIXIR_MYSTERY": [
+    {
+      "ingredient": "ITEM_MAT_DUNKELHEIT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_EMERGENCY_BAG": [
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_END_FLASHPOINT": [
+    {
+      "ingredient": "ITEM_MIX_CRIMSON_STONE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_SUN_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_BOMB",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_FAIRY_SIGNPOST": [
+    {
+      "ingredient": "ITEM_CATEGORY_WOOD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_FINEST_HOT_MILK": [
+    {
+      "ingredient": "ITEM_MAT_KIRUHEN_MILK",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_FLAME_EMPEROR_POWDER": [
+    {
+      "ingredient": "ITEM_MAT_KAREN_STONE",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_MAT_BLACK_MASS",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_FLUGEL": [
+    {
+      "ingredient": "ITEM_MAT_FADENRITE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_FORESIGHT_CRYSTAL": [
+    {
+      "ingredient": "ITEM_MAT_PENDEROCK",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_SMALL_CRYSTAL_PIECES",
+      "count": 5
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_FRAMME": [
+    {
+      "ingredient": "ITEM_MAT_KAREN_STONE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_GEIST_EISEN": [
+    {
+      "ingredient": "ITEM_MAT_SILVER_SPIRIT_CRYSTAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_ANCIENT_STONE_PILLAR",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_GOD_LOST": [
+    {
+      "ingredient": "ITEM_MIX_NOBLE_SAPPHIRE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_DEVIOUS_CORE",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_BOMB",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_GREEN_NEUTLIZER": [
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_GUILT_MEDICINE": [
+    {
+      "ingredient": "ITEM_MAT_MAGIC_GRASS",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_HEART_PENDANT": [
+    {
+      "ingredient": "ITEM_MAT_BLUE_CRYSTAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_JEWEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_HEAVENLY_HOUSECLEANING": [
+    {
+      "ingredient": "ITEM_MIX_NOBLE_SAPPHIRE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_DRAGON_CORE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_BOMB",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_HONEY": [
+    {
+      "ingredient": "ITEM_MAT_HONEY_BEEHIVE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_HONEY_SYRUP": [
+    {
+      "ingredient": "ITEM_MIX_HONEY",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICINE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_INGOT": [
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_INGOT_SP_1": [
+    {
+      "ingredient": "ITEM_MIX_GEIST_EISEN",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_INFORMAL_STONE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_INGOT_SP_2": [
+    {
+      "ingredient": "ITEM_MIX_CRIMSON_STONE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_ELEMENT_CRYSTAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ITEM_KUPTAL_CLOTH": [
+    {
+      "ingredient": "ITEM_MAT_SILVER_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_BEAST_FUR",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_LAMER_WEIZENMEHL": [
+    {
+      "ingredient": "ITEM_MAT_LAMER_WEIZEN",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_MANA_FEATHER": [
+    {
+      "ingredient": "ITEM_MAT_DEMON_BIRD_FEATHER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MAGICITEM",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_MERCURY_EYE": [
+    {
+      "ingredient": "ITEM_MAT_SMALL_CRYSTAL_PIECES",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_PENDEROCK",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_NATURAL_YEAST": [
+    {
+      "ingredient": "ITEM_MAT_SOIL_POTATO",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_NECROMANCER_TRUMPET": [
+    {
+      "ingredient": "ITEM_MIX_SPRUCE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_SMALL_DEVIL_MISCHIEF",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_NECTAR_LIFE": [
+    {
+      "ingredient": "ITEM_MAT_MYSTIC_HERB",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_NOBLE_SAPPHIRE": [
+    {
+      "ingredient": "ITEM_MAT_BLUE_CRYSTAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_ALCHEMY_CLAY",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_NOTSWAY_SCALE": [
+    {
+      "ingredient": "ITEM_KEY_ITEM_004",
+      "count": 4
+    },
+    {
+      "ingredient": "ITEM_MIX_SPRUCE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_ORI_FRAMME": [
+    {
+      "ingredient": "ITEM_MIX_FRAMME",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_FLAME_EMPEROR_POWDER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_PICKING_GLOVES": [
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_PIROSOTEA": [
+    {
+      "ingredient": "ITEM_MAT_MYSTIC_HERB",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_PURE_WATER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_PLAIN_WAFFLE": [
+    {
+      "ingredient": "ITEM_MIX_LAMER_WEIZENMEHL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_HONEY_SYRUP",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_FINEST_HOT_MILK",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_PRIMORDIAL_FLASHPOINT": [
+    {
+      "ingredient": "ITEM_MIX_CRIMSON_STONE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_STAR_POWDER",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_BOMB",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_PUNIPUNI_MISSILE": [
+    {
+      "ingredient": "ITEM_MIX_STARK_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_PUNIPUNI_BALL",
+      "count": 4
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_PUNI_JELLY": [
+    {
+      "ingredient": "ITEM_MAT_PUNIPUNI_BALL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_PURE_WATER": [
+    {
+      "ingredient": "ITEM_MAT_PEAK_COTTON",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_KIFA",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_RED_NEUTLIZER": [
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_REFERN": [
+    {
+      "ingredient": "ITEM_MAT_HAKUREI_STONE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_REFRESH_OIL": [
+    {
+      "ingredient": "ITEM_MAT_NATURE_OIL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_REFUEL_BOTTLE": [
+    {
+      "ingredient": "ITEM_MAT_COBALT_GRASS",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_RUBYLIUM": [
+    {
+      "ingredient": "ITEM_MAT_MALLEABLE_MATERIA",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MAT_BLACK_MASS",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SALAMANDER": [
+    {
+      "ingredient": "ITEM_MAT_DRAGON_BLOOD_CRYSTAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_SAVIOR_SOUL": [
+    {
+      "ingredient": "ITEM_MAT_DRAGON_SCALE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FOODSTUFF",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SEALED_BOOK": [
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_MAT_PENDEGRUN",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SILVERIA": [
+    {
+      "ingredient": "ITEM_MAT_KUPFER_MINERAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MAT_RARE_MATAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SMALL_DEVIL_MISCHIEF": [
+    {
+      "ingredient": "ITEM_MAT_SUSPICIOUS_LIQUID",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POISON",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_SNOWFLAKE_CRYSTAL": [
+    {
+      "ingredient": "ITEM_MAT_SILVER_SPIRIT_CRYSTAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SOPHINANSHU": [
+    {
+      "ingredient": "ITEM_MIX_LAMER_WEIZENMEHL",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_MIX_NATURAL_YEAST",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FOODSTUFF",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SOTEA": [
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SPECIAL_BACKPACK": [
+    {
+      "ingredient": "ITEM_MAT_BEAST_FUR",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SPRUCE": [
+    {
+      "ingredient": "ITEM_MAT_KIFA",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_WOOD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SP_ITEM_201": [
+    {
+      "ingredient": "ITEM_MIX_APCALL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SP_ITEM_202": [
+    {
+      "ingredient": "ITEM_MIX_UNIVERSAL_MEDICINE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_WOOD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_SP_ITEM_203": [
+    {
+      "ingredient": "ITEM_MIX_STARK_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SP_KETTLE_001": [
+    {
+      "ingredient": "ITEM_MIX_SP_KETTLE_001",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SP_KETTLE_002": [
+    {
+      "ingredient": "ITEM_MIX_SP_KETTLE_002",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_SP_KETTLE_003": [
+    {
+      "ingredient": "ITEM_MIX_SP_KETTLE_003",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_STARK_METAL": [
+    {
+      "ingredient": "ITEM_MAT_REIDEN_MINERAL",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_MAT_EISEN_MINERAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_STARK_REFERN": [
+    {
+      "ingredient": "ITEM_MIX_REFERN",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_SNOWFLAKE_CRYSTAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_SUN_DROPS": [
+    {
+      "ingredient": "ITEM_MAT_SUN_POWDER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_ELEMENTAL_TEARS",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_TIMEWORN_ALCHEMY_KETTLE": [
+    {
+      "ingredient": "ITEM_MIX_TIMEWORN_ALCHEMY_KETTLE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_TRAVELER_SHOES": [
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_METAL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_UNIVERSAL_ACCELERATOR": [
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_UNIVERSAL_AMULET_INCENSE": [
+    {
+      "ingredient": "ITEM_MIX_UNIVERSAL_MEDICINE",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_FUEL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_UNIVERSAL_MEDICINE": [
+    {
+      "ingredient": "ITEM_MAT_MAGIC_GRASS",
+      "count": 5
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POISON",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MEDICAL",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ELIXIL",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_UNI_BAG": [
+    {
+      "ingredient": "ITEM_MAT_UNI",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_POWDER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ORE",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_VERHEIT": [
+    {
+      "ingredient": "ITEM_MIX_BUNDLED_GOLD",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_MIX_PURE_WATER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_MYSTIC",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_WINNER_TALISMAN": [
+    {
+      "ingredient": "ITEM_MAT_LUXURY_CHURCH_AMULETS",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_PAPER",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_CLOTH",
+      "count": 1
+    }
+  ],
+  "ITEM_MIX_WITCH_TRUMPET": [
+    {
+      "ingredient": "ITEM_MIX_SPRUCE",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_MIX_ANGEL_WHISPER",
+      "count": 1
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_ANIMAL",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_THREAD",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_YELLOW_NEUTLIZER": [
+    {
+      "ingredient": "ITEM_CATEGORY_LOAM",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    }
+  ],
+  "ITEM_MIX_ZETTEL": [
+    {
+      "ingredient": "ITEM_CATEGORY_PLANT",
+      "count": 3
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_LIQUID",
+      "count": 2
+    },
+    {
+      "ingredient": "ITEM_CATEGORY_NEUTRALIZE",
+      "count": 1
+    }
+  ]
+}

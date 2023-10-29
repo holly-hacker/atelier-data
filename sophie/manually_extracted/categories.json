@@ -1,0 +1,92 @@
+{
+    "ITEM_CATEGORY_ACCESSORY": {
+        "name": "(Accessory)"
+    },
+    "ITEM_CATEGORY_ANIMAL": {
+        "name": "(Animal)"
+    },
+    "ITEM_CATEGORY_ARMOR": {
+        "name": "(Armor)"
+    },
+    "ITEM_CATEGORY_BOMB": {
+        "name": "(Bomb)"
+    },
+    "ITEM_CATEGORY_CAKE": {
+        "name": "(Sweets)"
+    },
+    "ITEM_CATEGORY_CLOTH": {
+        "name": "(Cloth)"
+    },
+    "ITEM_CATEGORY_ELIXIL": {
+        "name": "(Elixir)"
+    },
+    "ITEM_CATEGORY_FOOD": {
+        "name": "(Food)"
+    },
+    "ITEM_CATEGORY_FOODSTUFF": {
+        "name": "(Ingredient)"
+    },
+    "ITEM_CATEGORY_FUEL": {
+        "name": "(Fuel)"
+    },
+    "ITEM_CATEGORY_JEWEL": {
+        "name": "(Gem)"
+    },
+    "ITEM_CATEGORY_KEY": {
+        "name": "(Important)"
+    },
+    "ITEM_CATEGORY_LIQUID": {
+        "name": "(Water)"
+    },
+    "ITEM_CATEGORY_LOAM": {
+        "name": "(Clay)"
+    },
+    "ITEM_CATEGORY_MAGICITEM": {
+        "name": "(Magic Item)"
+    },
+    "ITEM_CATEGORY_MEDICAL": {
+        "name": "(Medicine Mat)"
+    },
+    "ITEM_CATEGORY_MEDICINE": {
+        "name": "(Medicine)"
+    },
+    "ITEM_CATEGORY_METAL": {
+        "name": "(Metal)"
+    },
+    "ITEM_CATEGORY_MYSTIC": {
+        "name": "(Secret Power)"
+    },
+    "ITEM_CATEGORY_NEUTRALIZE": {
+        "name": "(Neutralizer)"
+    },
+    "ITEM_CATEGORY_ORE": {
+        "name": "(Ore)"
+    },
+    "ITEM_CATEGORY_PAPER": {
+        "name": "(Paper)"
+    },
+    "ITEM_CATEGORY_PLANT": {
+        "name": "(Plant)"
+    },
+    "ITEM_CATEGORY_POISON": {
+        "name": "(Poison Mat)"
+    },
+    "ITEM_CATEGORY_POWDER": {
+        "name": "(Gunpowder)"
+    },
+    "ITEM_CATEGORY_THREAD": {
+        "name": "(Thread)"
+    },
+    "ITEM_CATEGORY_WEAPON": {
+        "name": "(Weapon)"
+    },
+    "ITEM_CATEGORY_WEAPON_CLOTH": {
+        "name": "(Armor Mat)"
+    },
+    "ITEM_CATEGORY_WEAPON_INGOT": {
+        "name": "(Weapon Mat)"
+    },
+    "ITEM_CATEGORY_WOOD": {
+        "name": "(Wood)"
+    }
+}

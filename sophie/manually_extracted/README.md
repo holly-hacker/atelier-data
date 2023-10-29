@@ -1,5 +1,15 @@
 # Manually extracted data for Atelier Sophie
 
+## `categories.json`
+
+This file contains a map with all categories, including their english name. The order of this map matches the internal order of the game.
+
+```json
+    "ITEM_CATEGORY_ACCESSORY": {
+        "name": "(Accessory)"
+    },
+```
+
 ## `item_boards.json`
 
 This file contains cauldron layout information for in-game items that can be made with alchemy.

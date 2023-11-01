@@ -1,0 +1,698 @@
+{
+  "unique_events": [
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_005",
+      "condition": {
+        "type": "PuniSpecies",
+        "species": "FEEDING_SPECIES_14"
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_013",
+      "condition": {
+        "type": "Energy",
+        "min": 61,
+        "max": 80
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_021",
+      "condition": {
+        "type": "Mood",
+        "min": 81,
+        "max": 100
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_023",
+      "condition": {
+        "type": "Color",
+        "min": 81,
+        "max": 100
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_024",
+      "condition": {
+        "type": "Color",
+        "min": 61,
+        "max": 80
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_027",
+      "condition": {
+        "type": "Mood",
+        "min": 0,
+        "max": 10
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_028",
+      "condition": {
+        "type": "PuniSpecies",
+        "species": "FEEDING_SPECIES_3"
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_030",
+      "condition": {
+        "type": "PuniSpecies",
+        "species": "FEEDING_SPECIES_1"
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_031",
+      "condition": {
+        "type": "PuniSpecies",
+        "species": "FEEDING_SPECIES_0"
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_032",
+      "condition": {
+        "type": "Mood",
+        "min": 50,
+        "max": 60
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_033",
+      "condition": {
+        "type": "Mood",
+        "min": 61,
+        "max": 80
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_036",
+      "condition": {
+        "type": "Energy",
+        "min": 0,
+        "max": 10
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_020",
+      "condition": {
+        "type": "Color",
+        "min": 0,
+        "max": 10
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_042",
+      "condition": {
+        "type": "Energy",
+        "min": 81,
+        "max": 100
+      }
+    },
+    {
+      "item_tag": "ITEM_FURNITURE_ARTICLE_044",
+      "condition": {
+        "type": "PuniSpecies",
+        "species": "FEEDING_SPECIES_2"
+      }
+    }
+  ],
+  "species": [
+    {
+      "name": "Shining Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_12",
+      "image_no": 7,
+      "energy": [
+        95,
+        100
+      ],
+      "color": [
+        95,
+        100
+      ],
+      "mood": [
+        95,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": null,
+      "rank_c": null,
+      "rank_b": null,
+      "rank_a": [
+        0,
+        99
+      ],
+      "rank_s": [
+        100,
+        100
+      ],
+      "categories": [
+        "ITEM_CATEGORY_GEMSTONE",
+        "ITEM_CATEGORY_DRAGON",
+        "ITEM_CATEGORY_MYSTIC"
+      ]
+    },
+    {
+      "name": "Abyss Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_02",
+      "image_no": 182,
+      "energy": [
+        0,
+        5
+      ],
+      "color": [
+        0,
+        5
+      ],
+      "mood": [
+        0,
+        5
+      ],
+      "rank_e": null,
+      "rank_d": null,
+      "rank_c": null,
+      "rank_b": null,
+      "rank_a": [
+        1,
+        100
+      ],
+      "rank_s": [
+        0,
+        0
+      ],
+      "categories": [
+        "ITEM_CATEGORY_DRAGON",
+        "ITEM_CATEGORY_MUSHROOM",
+        "ITEM_CATEGORY_ELIXIL"
+      ]
+    },
+    {
+      "name": "Rafflesia Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_15",
+      "image_no": 10,
+      "energy": [
+        0,
+        10
+      ],
+      "color": [
+        90,
+        100
+      ],
+      "mood": [
+        90,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": null,
+      "rank_c": null,
+      "rank_b": null,
+      "rank_a": [
+        0,
+        65
+      ],
+      "rank_s": [
+        66,
+        100
+      ],
+      "categories": [
+        "ITEM_CATEGORY_FLOWER",
+        "ITEM_CATEGORY_BEEHIVE",
+        "ITEM_CATEGORY_MUSHROOM"
+      ]
+    },
+    {
+      "name": "Big Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_11",
+      "image_no": 6,
+      "energy": [
+        75,
+        100
+      ],
+      "color": [
+        75,
+        100
+      ],
+      "mood": [
+        0,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": null,
+      "rank_c": [
+        0,
+        65
+      ],
+      "rank_b": [
+        66,
+        80
+      ],
+      "rank_a": [
+        81,
+        100
+      ],
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_FISH",
+        "ITEM_CATEGORY_UNI",
+        "ITEM_CATEGORY_LIQUID"
+      ]
+    },
+    {
+      "name": "Flare Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_03",
+      "image_no": 183,
+      "energy": [
+        75,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        75,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": null,
+      "rank_c": [
+        0,
+        65
+      ],
+      "rank_b": [
+        66,
+        80
+      ],
+      "rank_a": [
+        81,
+        100
+      ],
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_GAS",
+        "ITEM_CATEGORY_POWDER",
+        "ITEM_CATEGORY_FUEL"
+      ]
+    },
+    {
+      "name": "Moon Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_04",
+      "image_no": 184,
+      "energy": [
+        0,
+        100
+      ],
+      "color": [
+        75,
+        100
+      ],
+      "mood": [
+        75,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": null,
+      "rank_c": [
+        0,
+        65
+      ],
+      "rank_b": [
+        66,
+        80
+      ],
+      "rank_a": [
+        81,
+        100
+      ],
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_FOODSTUFF",
+        "ITEM_CATEGORY_NUT",
+        "ITEM_CATEGORY_FISH"
+      ]
+    },
+    {
+      "name": "Lavender Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_14",
+      "image_no": 9,
+      "energy": [
+        0,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        80,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": [
+        0,
+        40
+      ],
+      "rank_c": [
+        41,
+        65
+      ],
+      "rank_b": [
+        66,
+        100
+      ],
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_FLOWER",
+        "ITEM_CATEGORY_WOOD",
+        "ITEM_CATEGORY_NUT"
+      ]
+    },
+    {
+      "name": "Gold Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_10",
+      "image_no": 5,
+      "energy": [
+        0,
+        100
+      ],
+      "color": [
+        80,
+        100
+      ],
+      "mood": [
+        0,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": [
+        0,
+        40
+      ],
+      "rank_c": [
+        41,
+        65
+      ],
+      "rank_b": [
+        66,
+        100
+      ],
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_ELIXIL",
+        "ITEM_CATEGORY_GEMSTONE",
+        "ITEM_CATEGORY_BEEHIVE"
+      ]
+    },
+    {
+      "name": "Silver Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_09",
+      "image_no": 4,
+      "energy": [
+        80,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        0,
+        100
+      ],
+      "rank_e": null,
+      "rank_d": [
+        0,
+        40
+      ],
+      "rank_c": [
+        41,
+        65
+      ],
+      "rank_b": [
+        66,
+        100
+      ],
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_ORE",
+        "ITEM_CATEGORY_THREAD",
+        "ITEM_CATEGORY_MYSTIC"
+      ]
+    },
+    {
+      "name": "Stone Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_01",
+      "image_no": 181,
+      "energy": [
+        50,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        50,
+        100
+      ],
+      "rank_e": [
+        0,
+        40
+      ],
+      "rank_d": [
+        41,
+        60
+      ],
+      "rank_c": [
+        61,
+        100
+      ],
+      "rank_b": null,
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_STONE",
+        "ITEM_CATEGORY_GEMSTONE",
+        "ITEM_CATEGORY_ORE"
+      ]
+    },
+    {
+      "name": "Black Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_08",
+      "image_no": 3,
+      "energy": [
+        0,
+        15
+      ],
+      "color": [
+        0,
+        15
+      ],
+      "mood": [
+        0,
+        15
+      ],
+      "rank_e": [
+        0,
+        5
+      ],
+      "rank_d": [
+        6,
+        10
+      ],
+      "rank_c": [
+        11,
+        100
+      ],
+      "rank_b": null,
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_POISON",
+        "ITEM_CATEGORY_SAND",
+        "ITEM_CATEGORY_MUSHROOM"
+      ]
+    },
+    {
+      "name": "Flower Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_13",
+      "image_no": 8,
+      "energy": [
+        0,
+        100
+      ],
+      "color": [
+        40,
+        100
+      ],
+      "mood": [
+        0,
+        100
+      ],
+      "rank_e": [
+        0,
+        30
+      ],
+      "rank_d": [
+        31,
+        45
+      ],
+      "rank_c": [
+        46,
+        100
+      ],
+      "rank_b": null,
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_FLOWER",
+        "ITEM_CATEGORY_INSECT",
+        "ITEM_CATEGORY_PLANT"
+      ]
+    },
+    {
+      "name": "Red Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_07",
+      "image_no": 2,
+      "energy": [
+        40,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        0,
+        100
+      ],
+      "rank_e": [
+        0,
+        30
+      ],
+      "rank_d": [
+        31,
+        45
+      ],
+      "rank_c": [
+        46,
+        100
+      ],
+      "rank_b": null,
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_POWDER",
+        "ITEM_CATEGORY_FUEL",
+        "ITEM_CATEGORY_GAS"
+      ]
+    },
+    {
+      "name": "Green Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_06",
+      "image_no": 1,
+      "energy": [
+        0,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        40,
+        100
+      ],
+      "rank_e": [
+        0,
+        30
+      ],
+      "rank_d": [
+        31,
+        45
+      ],
+      "rank_c": [
+        46,
+        100
+      ],
+      "rank_b": null,
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_PLANT",
+        "ITEM_CATEGORY_UNI",
+        "ITEM_CATEGORY_INSECT"
+      ]
+    },
+    {
+      "name": "Blue Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_00",
+      "image_no": 0,
+      "energy": [
+        0,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        0,
+        100
+      ],
+      "rank_e": [
+        0,
+        25
+      ],
+      "rank_d": [
+        26,
+        100
+      ],
+      "rank_c": null,
+      "rank_b": null,
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_LIQUID",
+        "ITEM_CATEGORY_THREAD",
+        "ITEM_CATEGORY_NUT"
+      ]
+    },
+    {
+      "name": "Blue Puni",
+      "character_tag": "CHARA_PUNI_FEEDING_16",
+      "image_no": 0,
+      "energy": [
+        0,
+        100
+      ],
+      "color": [
+        0,
+        100
+      ],
+      "mood": [
+        0,
+        100
+      ],
+      "rank_e": [
+        0,
+        25
+      ],
+      "rank_d": [
+        26,
+        100
+      ],
+      "rank_c": null,
+      "rank_b": null,
+      "rank_a": null,
+      "rank_s": null,
+      "categories": [
+        "ITEM_CATEGORY_LIQUID",
+        "ITEM_CATEGORY_SAND",
+        "ITEM_CATEGORY_STONE"
+      ]
+    }
+  ]
+}

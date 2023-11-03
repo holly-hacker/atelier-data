@@ -2,7 +2,7 @@
 
 This repo contains information extracted from the Atelier series by Gust.
 
-While some data in this repo may be extracted automatically using specialized tooling, some of it is extracted by hand. If you spot any errors, please open an issue or a pull request.
+While some data in this repo is extracted automatically using [specialized tooling](https://github.com/holly-hacker/atelier-data-extractor), some of it is extracted by hand. If you spot any errors, please create an issue or open a pull request.
 
 ## License
 

@@ -14,6 +14,12 @@ Some games may have typos or incorrect data in their game files. These errors wi
 
 Any data that is clearly incorrectly extracted should be fixed.
 
+## Sources
+
+All data outside folders called `manually_extracted` is extracted using [`atelier-data-extractor`](https://github.com/holly-hacker/atelier-data-extractor).
+
+`a.whim` on Discord provided information on Atelier Sophie's items through their [spreadsheet](https://docs.google.com/spreadsheets/d/19w4KtLtsaPf095B1VqSq8qyZFykNVD444FQfWGCC2VA). Much of this data is not found in the game's XML files and would have to be extracted from the game executable through significant reverse engineering effort.
+
 ## License
 
 All files in this repo are released in the public domain, meaning you are free to do with them as you wish. Crediting this repository or the person who originally extracted the data is not required, but appreciated.

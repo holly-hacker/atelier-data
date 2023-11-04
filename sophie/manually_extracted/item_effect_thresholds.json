@@ -1,0 +1,3216 @@
+{
+  "ITEM_ACC_AMBROSIA_COROLLA": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_606",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_607",
+        "threshold": 85
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_601",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_602",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_603",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TIME_ZONE_1",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TIME_ZONE_2",
+        "threshold": 75
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TIME_ZONE_EX_1",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_621",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AUTO_RESURRECTION_2",
+        "threshold": 150
+      }
+    ]
+  ],
+  "ITEM_ACC_ANGEL_RIBBON": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_3",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_USI_FAST",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_HPTOMP_MPTOHP_2",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_POISON",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_CURSE",
+        "threshold": 75
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_WEAKNESS",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_SLEEP",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_DISABLE_RECOVERY",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_BLIND",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_ATERMATH",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_ACC_CHRONICLE_MARK": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_MP_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_MP_3",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_MP_4",
+        "threshold": 140
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_MP_5",
+        "threshold": 180
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_REVERSAL_DAMAGE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REVERSAL_DAMAGE_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REVERSAL_DAMAGE_3",
+        "threshold": 140
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_3",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_4",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_ACC_ELEMENT_SHIELD": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_FIRE_HALF",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_ICE_HALF",
+        "threshold": 75
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_THUN_HALF",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_618",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_619",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_620",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_DEAD_4",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_4",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DEX_UP_3",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_POTENCY_3",
+        "threshold": 150
+      }
+    ]
+  ],
+  "ITEM_ACC_FRATERNAL_PERSONA": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_TRUST_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_TRUST_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_TRUST_3",
+        "threshold": 130
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_604",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_605",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_DEX_PLUS_5",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PINCH_HITTER_1",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_ACC_GREEN_FEATHERS": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_INVISIBLE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TAUNT_TARGET_1",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TAUNT_TARGET_2",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AVOID_UP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AVOID_UP_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AVOID_UP_3",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_PLUS_5",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AUTO_RESURRECTION_1",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_ACC_GUNADE_RING": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_608",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_611",
+        "threshold": 200
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_609",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_612",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_610",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_613",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_614",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_615",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_616",
+        "threshold": 110
+      }
+    ]
+  ],
+  "ITEM_ACC_HUSTLE_BELT": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_POWER_UP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_POWER_UP_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_POWER_UP_3",
+        "threshold": 130
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_POWER_UP_4",
+        "threshold": 160
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_RESIST_GRAVITY_1",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_RESIST_GRAVITY_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_625",
+        "threshold": 130
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_DEFENSE_1",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_DEFENSE_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_DEFENSE_3",
+        "threshold": 90
+      }
+    ]
+  ],
+  "ITEM_ACC_INCANDESCENT_HEADBAND": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TURN_PROPOTION_POWER",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TURN_DEPROPOTION_POWER",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_624",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CRITICAL_BONUS_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CRITICAL_BONUS_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CRITICAL_BONUS_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_DEAD_1",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_DEAD_2",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_DEAD_3",
+        "threshold": 140
+      }
+    ]
+  ],
+  "ITEM_ACC_LIFE_BANGLE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_3",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_4",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_5",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_PARAM_HP_PROPOTION_POWER",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PARAM_MP_PROPOTION_POWER",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_WT_PROPOTION_POWER",
+        "threshold": 160
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_ATERMATH",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AUTO_RESURRECTION_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AUTO_RESURRECTION_3",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_ACC_MANIPULATE_HOURGLASS": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CLOCK_UP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CLOCK_UP_2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CLOCK_UP_3",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_617",
+        "threshold": 85
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_DEAD_3",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_DEAD_4",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_AVOID_DEAD_5",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_LUCKY_STRIKE_1",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LUCKY_STRIKE_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LUCKY_STRIKE_3",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_ACC_MEISTER_MITTENS": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_DOUBLE_ATTACK_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_DOUBLE_ATTACK_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_DOUBLE_ATTACK_3",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_DOUBLE_ATTACK_4",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_POTENCY_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_POTENCY_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_POTENCY_3",
+        "threshold": 110
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_POTENCY_4",
+        "threshold": 145
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_IMMUNE_UP_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_ICE_HALF",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_ACC_MONOCHROME_GLASS": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_CUT_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_CUT_2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_CUT_3",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_CUT_4",
+        "threshold": 125
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_REDUCTION_ATK_DEF",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REDUCTION_DEF_ATK",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADVANTAGE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADVANTAGE_2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADVANTAGE_3",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADVANTAGE_4",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_ACC_MONOCLE_MINDS_EYE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DEX_UP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DEX_UP_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DEX_UP_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_ADD_CRITICAL_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_ADD_CRITICAL_3",
+        "threshold": 150
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EQUIP_ADD_CRITICAL_4",
+        "threshold": 200
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_REDUCTION_DAMAGE_1",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REDUCTION_DAMAGE_2",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REDUCTION_DAMAGE_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_623",
+        "threshold": 50
+      }
+    ]
+  ],
+  "ITEM_ACC_SPIRIT_EARRINGS": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WISDOM_LEARNED",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_DEAD",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_WISDOM_WISEMAN",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_POWER_UP_ITEM1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_POWER_UP_ITEM2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_POWER_UP_ITEM3",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_QUICK_ITEM_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_QUICK_ITEM_2",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_QUICK_ITEM_3",
+        "threshold": 110
+      }
+    ]
+  ],
+  "ITEM_BOOK_RECIPE_01": [],
+  "ITEM_BOOK_RECIPE_02": [],
+  "ITEM_BOOK_RECIPE_03": [],
+  "ITEM_BOOK_RECIPE_04": [],
+  "ITEM_BOOK_RECIPE_05": [],
+  "ITEM_BOOK_RECIPE_06": [],
+  "ITEM_BOOK_RECIPE_07": [],
+  "ITEM_BOOK_RECIPE_08": [],
+  "ITEM_KEY_ITEM_003": [],
+  "ITEM_KEY_ITEM_004": [],
+  "ITEM_KEY_ITEM_005": [],
+  "ITEM_KEY_ITEM_006": [],
+  "ITEM_KEY_ITEM_007": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_BLIND",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_SEALED",
+        "threshold": 45
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_DISABLE_RECOVERY",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTI_CURSE",
+        "threshold": 75
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_1",
+        "threshold": 25
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ANTIBODY_3",
+        "threshold": 55
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TIME_ZONE_3",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TIME_ZONE_4",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TIME_ZONE_EX_2",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_KEY_ITEM_010": [],
+  "ITEM_KEY_ITEM_011": [],
+  "ITEM_KEY_ITEM_012": [],
+  "ITEM_KEY_ITEM_013": [],
+  "ITEM_KEY_ITEM_014": [],
+  "ITEM_MAT_AFTERLIFE_LILIES": [],
+  "ITEM_MAT_ANCIENT_DRAGON_SCALE": [],
+  "ITEM_MAT_ANCIENT_STONE_PILLAR": [],
+  "ITEM_MAT_ARUTARU": [],
+  "ITEM_MAT_BASTARDS_PIECES": [],
+  "ITEM_MAT_BEAST_FUR": [],
+  "ITEM_MAT_BEAUTIFUL_PIECES": [],
+  "ITEM_MAT_BEAUTIFUL_SEASHELL": [],
+  "ITEM_MAT_BLACK_MASS": [],
+  "ITEM_MAT_BLUE_CRYSTAL": [],
+  "ITEM_MAT_BOTTOM_SOIL": [],
+  "ITEM_MAT_BURNT_PIECES": [],
+  "ITEM_MAT_BURST_BERRY": [],
+  "ITEM_MAT_CHURCH_AMULETS": [],
+  "ITEM_MAT_COBALT_GRASS": [],
+  "ITEM_MAT_CRIMSON_GRASS": [],
+  "ITEM_MAT_DELICIOUS_WATER": [],
+  "ITEM_MAT_DEMON_BIRD_FEATHER": [],
+  "ITEM_MAT_DEVIOUS_CORE": [],
+  "ITEM_MAT_DRAGON_BLOOD_CRYSTAL": [],
+  "ITEM_MAT_DRAGON_CORE": [],
+  "ITEM_MAT_DRAGON_SCALE": [],
+  "ITEM_MAT_DRIED_GRASS": [],
+  "ITEM_MAT_DUNKELHEIT": [],
+  "ITEM_MAT_DUNKELSTERN": [],
+  "ITEM_MAT_DUSK_FUR": [],
+  "ITEM_MAT_EISEN_MINERAL": [],
+  "ITEM_MAT_ELEMENT_CRYSTAL": [],
+  "ITEM_MAT_FADENRITE": [],
+  "ITEM_MAT_FAILURE_ASH": [],
+  "ITEM_MAT_FAIRY_POISONOUS_GRASS": [],
+  "ITEM_MAT_FORGOTTEN_BRANCH": [],
+  "ITEM_MAT_FORGOTTEN_JEWEL": [],
+  "ITEM_MAT_FORGOTTEN_ORE": [],
+  "ITEM_MAT_FORGOTTEN_PARTS": [],
+  "ITEM_MAT_GARDEN_MAIDEN": [],
+  "ITEM_MAT_GOLDEN_PUNIPUNI_BALL": [],
+  "ITEM_MAT_GOLD_THREAD": [],
+  "ITEM_MAT_HAKUREI_STONE": [],
+  "ITEM_MAT_HOLY_WATER": [],
+  "ITEM_MAT_HONEY_BEEHIVE": [],
+  "ITEM_MAT_INFORMAL_STONE": [],
+  "ITEM_MAT_ISLAND_FISH_FIN": [],
+  "ITEM_MAT_KAREN_STONE": [],
+  "ITEM_MAT_KIFA": [],
+  "ITEM_MAT_KIRUHEN_MILK": [],
+  "ITEM_MAT_KUPFER_MINERAL": [],
+  "ITEM_MAT_LAMER_WEIZEN": [],
+  "ITEM_MAT_LITHOGRAPH": [],
+  "ITEM_MAT_LUXURY_CHURCH_AMULETS": [],
+  "ITEM_MAT_MAGIC_GRASS": [],
+  "ITEM_MAT_MALLEABLE_MATERIA": [],
+  "ITEM_MAT_MOSSY_WOOD": [],
+  "ITEM_MAT_MUD_DUMPLING": [],
+  "ITEM_MAT_MYSTIC_HERB": [],
+  "ITEM_MAT_NATURE_OIL": [],
+  "ITEM_MAT_NIGHT_CRYSTAL": [],
+  "ITEM_MAT_NIGHT_GLOW_WATER": [],
+  "ITEM_MAT_NITRO_WATER": [],
+  "ITEM_MAT_OBORO_PETAL": [],
+  "ITEM_MAT_PEAK_COTTON": [],
+  "ITEM_MAT_PELREM_SHELL": [],
+  "ITEM_MAT_PENDEGRUN": [],
+  "ITEM_MAT_PENDEROCK": [],
+  "ITEM_MAT_PIOUS_CHURCH_AMULETS": [],
+  "ITEM_MAT_PUNIPUNI_BALL": [],
+  "ITEM_MAT_PUNI_LIQUID": [],
+  "ITEM_MAT_RAINBOW_CRYSTAL_PIECES": [],
+  "ITEM_MAT_RAINBOW_PUNI_LIQUID": [],
+  "ITEM_MAT_RARE_MATAL": [],
+  "ITEM_MAT_RED_UNI": [],
+  "ITEM_MAT_REIDEN_MINERAL": [],
+  "ITEM_MAT_SAFLOR_OIL": [],
+  "ITEM_MAT_SCRAP_PAPER": [],
+  "ITEM_MAT_SEABED_SOIL": [],
+  "ITEM_MAT_SILVER_POTATO": [],
+  "ITEM_MAT_SILVER_SPIRIT_CRYSTAL": [],
+  "ITEM_MAT_SILVER_THREAD": [],
+  "ITEM_MAT_SMALL_CRYSTAL_PIECES": [],
+  "ITEM_MAT_SMELL_PIECES": [],
+  "ITEM_MAT_SOIL_POTATO": [],
+  "ITEM_MAT_SP_ITEM_001": [],
+  "ITEM_MAT_SP_ITEM_002": [],
+  "ITEM_MAT_SP_ITEM_003": [],
+  "ITEM_MAT_SP_ITEM_004": [],
+  "ITEM_MAT_STAR_POWDER": [],
+  "ITEM_MAT_STRONG_BONES": [],
+  "ITEM_MAT_SUN_POWDER": [],
+  "ITEM_MAT_SUSPICIOUS_LIQUID": [],
+  "ITEM_MAT_UNI": [],
+  "ITEM_MAT_UNIDENTFIED_EGG": [],
+  "ITEM_MAT_VINES_TWINE": [],
+  "ITEM_MAT_WEIZENMEHL": [],
+  "ITEM_MAT_WELL_WATER": [],
+  "ITEM_MAT_WHIM_STRAWBERRY": [],
+  "ITEM_MAT_WHITE_PRINCESS_GRASS": [],
+  "ITEM_MIX_ALCHEMYST_KETTLE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WITH_TIME_LIMIT_30",
+        "threshold": 10
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_711",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_712",
+        "threshold": 160
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_713",
+        "threshold": 200
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WITH_TIME_LIMIT_10",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN1",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN2",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_701",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_702",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_703",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_ALCHEMY_CLAY": [],
+  "ITEM_MIX_ALCHEMY_DROP": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_BITTER",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_SALTY",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_SWEET_1",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_SWEET_2",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_PURIFICATION",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_ALCHEMY_STONE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_726",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_725",
+        "threshold": 160
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_724",
+        "threshold": 200
+      }
+    ]
+  ],
+  "ITEM_MIX_ALIVE_CART": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ALIVE_CART_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ALIVE_CART_2",
+        "threshold": 110
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ALIVE_CART_3",
+        "threshold": 150
+      }
+    ]
+  ],
+  "ITEM_MIX_ALL_THINGS_MANUSCRIPT": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_HP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_HP_2",
+        "threshold": 140
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_HP_3",
+        "threshold": 180
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_POWER_DOWN_2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_POWER_2",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DEFENSE_DOWN_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_GUARD_2",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_SPD_DOWN_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_SPEED_2",
+        "threshold": 90
+      }
+    ]
+  ],
+  "ITEM_MIX_AMULET_TALISMAN": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AMULET_DANGER_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AMULET_DANGER_2",
+        "threshold": 75
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AMULET_DANGER_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_552",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_ANGEL_WHISPER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_REVIVAL_SOUND_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REVIVAL_SOUND_2",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DEX_UP_1",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DEX_UP_2",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_2",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_APCALL": [],
+  "ITEM_MIX_BAGEL_SAND": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_LITTLE",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_HALF",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_FULL",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DIGESTION_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_3",
+        "threshold": 90
+      }
+    ]
+  ],
+  "ITEM_MIX_BAKED_GOODS": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_LITTLE",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_HALF",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DIGESTION_3",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_251",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_2",
+        "threshold": 40
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_BITTER",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_SALTY",
+        "threshold": 25
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_SWEET_1",
+        "threshold": 50
+      }
+    ]
+  ],
+  "ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_710",
+        "threshold": 10
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_711",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_712",
+        "threshold": 150
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_713",
+        "threshold": 180
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WITH_TIME_LIMIT_10",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN1",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN2",
+        "threshold": 60
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_701",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_702",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_703",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_BLITZRITE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_726",
+        "threshold": 150
+      }
+    ]
+  ],
+  "ITEM_MIX_BLUE_NEUTLIZER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_731",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_741",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_BOTTLING_MISFORTUNE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SLOW_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_WEAKNESS_3",
+        "threshold": 25
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_CURSE_3",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_MISFORTUNE",
+        "threshold": 55
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_INSTANCE_HP",
+        "threshold": 45
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_ACCURACY",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SVDOWN_ALL",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_BREEZE_AROMA": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_101",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_102",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_103",
+        "threshold": 85
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_3",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_2",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MPBONUS_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MPBONUS_3",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_3",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_254",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_BUNDLED_GOLD": [],
+  "ITEM_MIX_CLEAR_DROP": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_INVISIBLE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_INVISIBLE_2",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_CLOTH": [],
+  "ITEM_MIX_CLOTH_MOFCOT": [],
+  "ITEM_MIX_CLOTH_SP": [],
+  "ITEM_MIX_CRAFT": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PHY_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PHY_3",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PHY_4",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_SPLIT_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_THORN_3",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_SPLIT_3",
+        "threshold": 130
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIX_1",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIX_2",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_CRIMSON_STONE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_727",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_DISCIPLINE_TALISMAN": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_GET_EXP_UP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_GET_EXP_UP_2",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_GET_EXP_UP_3",
+        "threshold": 95
+      }
+    ]
+  ],
+  "ITEM_MIX_DONNER_CRYSTAL": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_THUN_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_THUN_4",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_THUN_EX_1",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_THUN_EX_2",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_KNOCKBACK_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ELECTRONIC",
+        "threshold": 140
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_KNOCKBACK_3",
+        "threshold": 160
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CALL_THUNDERCLOUD_1",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_RANGE_CHANGE_1",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CALL_THUNDERCLOUD_2",
+        "threshold": 130
+      }
+    ]
+  ],
+  "ITEM_MIX_DONNER_STONE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_THUN_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_THUN_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_THUN_3",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_KNOCKBACK_1",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_KNOCKBACK_2",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ELECTRONIC",
+        "threshold": 60
+      }
+    ]
+  ],
+  "ITEM_MIX_DUSK_DROPS": [],
+  "ITEM_MIX_ELEMENTAL_CURTAIN": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_PROTECTION_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_USI_FAST",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SVUP_ALL",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AVOID_UP_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DEFENCE_UP_3",
+        "threshold": 110
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AVOID_UP_3",
+        "threshold": 140
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_2",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_ELEMENTAL_TEARS": [],
+  "ITEM_MIX_ELIXIR_MYSTERY": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_5",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_6",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_4",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REVIVE_5",
+        "threshold": 130
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_258",
+        "threshold": 180
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_AFTERMATH",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_ALL_SICKNESS",
+        "threshold": 130
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_255",
+        "threshold": 230
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_LP_4",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HIDDEN_FORCE",
+        "threshold": 110
+      }
+    ]
+  ],
+  "ITEM_MIX_EMERGENCY_BAG": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_LOST_PRESERVE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LOST_PRESERVE_2",
+        "threshold": 200
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LOST_PRESERVE_3",
+        "threshold": 300
+      }
+    ]
+  ],
+  "ITEM_MIX_END_FLASHPOINT": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PILOT_LIGHT_EX_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PILOT_LIGHT_EX_2",
+        "threshold": 85
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_5",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_4",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_PURIFICATION_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SVDOWN_ALL_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_DOWN_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_403",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_BREAK_4",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_FAIRY_SIGNPOST": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_RETURN",
+        "threshold": 10
+      }
+    ]
+  ],
+  "ITEM_MIX_FINEST_HOT_MILK": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_3",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_4",
+        "threshold": 140
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_3",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_FLAME_EMPEROR_POWDER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_724",
+        "threshold": 200
+      }
+    ]
+  ],
+  "ITEM_MIX_FLUGEL": [],
+  "ITEM_MIX_FORESIGHT_CRYSTAL": [],
+  "ITEM_MIX_FRAMME": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_FIRE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_FIRE_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_FIRE_3",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIRE_EXT_1",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIRE_EXT_2",
+        "threshold": 60
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DEFENSE_DOWN_1",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_BLUE_FRAME",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_GEIST_EISEN": [],
+  "ITEM_MIX_GOD_LOST": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_LOST_ITEM_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_LOST_ITEM_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_LOST_ITEM_3",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_LOST_ITEM_4",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIX_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SPD_DOWN_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_BREAK_2",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_DOWN_1",
+        "threshold": 165
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_2",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_GREEN_NEUTLIZER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_730",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_741",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_GUILT_MEDICINE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_1",
+        "threshold": 25
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_257",
+        "threshold": 60
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_BONUS_2",
+        "threshold": 25
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_BONUS_3",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_BONUS_4",
+        "threshold": 60
+      }
+    ]
+  ],
+  "ITEM_MIX_HEART_PENDANT": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_FRIENDSHIP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_FRIENDSHIP_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_FRIENDSHIP_3",
+        "threshold": 140
+      }
+    ]
+  ],
+  "ITEM_MIX_HEAVENLY_HOUSECLEANING": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_WASTE_MATTER_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_WASTE_MATTER_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_WASTE_MATTER_3",
+        "threshold": 110
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_WASTE_MATTER_4",
+        "threshold": 140
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SEALED_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DISPELL_1",
+        "threshold": 85
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_4",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_402",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BLESS_HEAL_3",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_HONEY": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_738",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_HONEY_SYRUP": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_3",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_POISON",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_WEAKNESS",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_PURIFICATION",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_SLEEP",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_BLIND",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_252",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_INGOT": [],
+  "ITEM_MIX_INGOT_SP_1": [],
+  "ITEM_MIX_INGOT_SP_2": [],
+  "ITEM_MIX_ITEM_KUPTAL_CLOTH": [],
+  "ITEM_MIX_LAMER_WEIZENMEHL": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_738",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_739",
+        "threshold": 60
+      }
+    ]
+  ],
+  "ITEM_MIX_MANA_FEATHER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_LIGHT_BODY_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LIGHT_BODY_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LIGHT_BODY_3",
+        "threshold": 130
+      }
+    ]
+  ],
+  "ITEM_MIX_MERCURY_EYE": [],
+  "ITEM_MIX_NATURAL_YEAST": [],
+  "ITEM_MIX_NECROMANCER_TRUMPET": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_SUMMON_GHOST_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_SUMMON_GHOST_2",
+        "threshold": 110
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_SUMMON_GHOST_3",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_4",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_2",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TURN_DAMAGE_1",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TURN_DAMAGE_3",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_CURSE_3",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_KNOCKBACK_3",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_NECTAR_LIFE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_REVIVE_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REVIVE_3",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_REVIVE_4",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_2",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_3",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_REGEN_BONUS_1",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_NOBLE_SAPPHIRE": [],
+  "ITEM_MIX_NOTSWAY_SCALE": [],
+  "ITEM_MIX_ORI_FRAMME": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_FIRE_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_FIRE_4",
+        "threshold": 45
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_FIRE_EX_1",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_FIRE_EX_2",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIRE_EXT_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIRE_EXT_EX_1",
+        "threshold": 75
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_FIRE_EXT_EX_2",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DEFENSE_DOWN_1",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DEFENSE_DOWN_2",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_PINPOINT_FLARE",
+        "threshold": 180
+      }
+    ]
+  ],
+  "ITEM_MIX_PICKING_GLOVES": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_GATHER_COUNT_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_GATHER_COUNT_2",
+        "threshold": 180
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_GATHER_COUNT_3",
+        "threshold": 240
+      }
+    ]
+  ],
+  "ITEM_MIX_PIROSOTEA": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_4",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_3",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_CURSE",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_SEALED",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_TIME_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_TIME_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_TIME_3",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_PLAIN_WAFFLE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_4",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_SWEET_1",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_SWEET_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_252",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_3",
+        "threshold": 90
+      }
+    ]
+  ],
+  "ITEM_MIX_PRIMORDIAL_FLASHPOINT": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PILOT_LIGHT_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PILOT_LIGHT_2",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_4",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 180
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_SVDOWN_ALL_1",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SVDOWN_ALL_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_253",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_WEAKNESS_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_DUSK_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_INSTANCE_HP",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_PUNIPUNI_MISSILE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PUNI_MISSILE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PUNI_MISSILE_2",
+        "threshold": 45
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PUNI_MISSILE_3",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PUNI_MISSILE_4",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_LIVING_1",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LIVING_2",
+        "threshold": 200
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_SUNBURN_PUNI",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SLEEP_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_DISABLE_RECOVERY_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_ACCURACY",
+        "threshold": 90
+      }
+    ]
+  ],
+  "ITEM_MIX_PUNI_JELLY": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_LITTLE",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DIGESTION_3",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LIVING_1",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_2",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HPMP_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEXTURE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEXTURE_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEXTURE_3",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_256",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_PURE_WATER": [],
+  "ITEM_MIX_RED_NEUTLIZER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_729",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_741",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_REFERN": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_ICE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_ICE_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_ICE_3",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SLOW_1",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SLOW_2",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_RANGE_CHANGE_2",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_REFRESH_OIL": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_723",
+        "threshold": 150
+      }
+    ]
+  ],
+  "ITEM_MIX_REFUEL_BOTTLE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_2",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_3",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_4",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_1",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_2",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_BARRIER_ICE",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BARRIER_THUN",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_259",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_RUBYLIUM": [],
+  "ITEM_MIX_SALAMANDER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AUTO_RECOVERY_HP_4",
+        "threshold": 60
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_LIMIT_BREAK_1",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ALL_UP_2",
+        "threshold": 110
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LIMIT_BREAK_3",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DOUBLE_ATTACK_1",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_MAX_HP_UP_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DOUBLE_ATTACK_3",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_SAVIOR_SOUL": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_UP_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_UP_4",
+        "threshold": 140
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_UP_5",
+        "threshold": 180
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ALL_UP_1",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LIMIT_BREAK_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ALL_UP_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_MAX_HP_UP_1",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DOUBLE_ATTACK_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_MAX_HP_UP_3",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_SEALED_BOOK": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SEALED_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SEALED_2",
+        "threshold": 180
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SEALED_3",
+        "threshold": 250
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_SPEED_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_GUARD_3",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DRAIN_POWER_3",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SVDOWN_ALL_3",
+        "threshold": 110
+      }
+    ]
+  ],
+  "ITEM_MIX_SILVERIA": [],
+  "ITEM_MIX_SMALL_DEVIL_MISCHIEF": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_DOWN_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_DOWN_2",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_LEVEL_DOWN_3",
+        "threshold": 55
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_POISON_3",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_SLOW_3",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_ADD_PURIFICATION_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TURN_DAMAGE_2",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TURN_DAMAGE_3",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_SNOWFLAKE_CRYSTAL": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_725",
+        "threshold": 150
+      }
+    ]
+  ],
+  "ITEM_MIX_SOPHINANSHU": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_HALF",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_EAT_FULL",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_4",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_HP_ADV_5",
+        "threshold": 60
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_PROTECT_MENTAL",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_KAGO_LARGE",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_ELASTICITY_3",
+        "threshold": 90
+      }
+    ]
+  ],
+  "ITEM_MIX_SOTEA": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MP_2",
+        "threshold": 50
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_TASTE_TEMPERATURE_3",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_TIME_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_TIME_2",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BREAK_TIME_3",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_SPECIAL_BACKPACK": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CAPACITY_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CAPACITY_2",
+        "threshold": 250
+      }
+    ]
+  ],
+  "ITEM_MIX_SPRUCE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_740",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_SP_ITEM_201": [],
+  "ITEM_MIX_SP_ITEM_202": [],
+  "ITEM_MIX_SP_ITEM_203": [],
+  "ITEM_MIX_SP_KETTLE_001": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_706",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_707",
+        "threshold": 15
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_711",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_712",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_713",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WITH_TIME_LIMIT_10",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN1",
+        "threshold": 50
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_701",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_702",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_703",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_SP_KETTLE_002": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_708",
+        "threshold": 10
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_711",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_712",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_713",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WITH_TIME_LIMIT_10",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN1",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN2",
+        "threshold": 60
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_701",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_702",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_703",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_SP_KETTLE_003": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_709",
+        "threshold": 10
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_711",
+        "threshold": 45
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_712",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_713",
+        "threshold": 120
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WITH_TIME_LIMIT_10",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN1",
+        "threshold": 45
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN2",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_701",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_702",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_703",
+        "threshold": 100
+      }
+    ]
+  ],
+  "ITEM_MIX_STARK_METAL": [],
+  "ITEM_MIX_STARK_REFERN": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_ICE_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_ICE_4",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_ICE_EX_1",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_ICE_EX_2",
+        "threshold": 110
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_PERFECT_FREEZING",
+        "threshold": 120
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_WORLD_FREEZING",
+        "threshold": 160
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_SPD_DOWN_1",
+        "threshold": 70
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SPD_DOWN_2",
+        "threshold": 140
+      }
+    ]
+  ],
+  "ITEM_MIX_SUN_DROPS": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_727",
+        "threshold": 150
+      }
+    ]
+  ],
+  "ITEM_MIX_TIMEWORN_ALCHEMY_KETTLE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_704",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_705",
+        "threshold": 15
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_711",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_712",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_713",
+        "threshold": 90
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_WITH_TIME_LIMIT_10",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_PANEL_BONUS_OPEN1",
+        "threshold": 50
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_701",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_702",
+        "threshold": 40
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_703",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_TRAVELER_SHOES": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_MOVE_FAST_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_MOVE_FAST_2",
+        "threshold": 150
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_MOVE_FAST_3",
+        "threshold": 200
+      }
+    ]
+  ],
+  "ITEM_MIX_UNIVERSAL_ACCELERATOR": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_GROW_PLANT_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_GROW_PLANT_2",
+        "threshold": 250
+      }
+    ]
+  ],
+  "ITEM_MIX_UNIVERSAL_AMULET_INCENSE": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_IMMUNE_UP_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_IMMUNE_UP_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_IMMUNE_UP_3",
+        "threshold": 80
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_PURIFICATION",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_CURE_ALL_SICKNESS",
+        "threshold": 200
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MPBONUS_1",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_HEAL_MPBONUS_2",
+        "threshold": 90
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_BARRIER_FIRE",
+        "threshold": 140
+      }
+    ]
+  ],
+  "ITEM_MIX_UNIVERSAL_MEDICINE": [],
+  "ITEM_MIX_UNI_BAG": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PHY_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PHY_2",
+        "threshold": 50
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_PHY_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_SPLIT_1",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_SPLIT_2",
+        "threshold": 50
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_THORN_1",
+        "threshold": 30
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DMG_THORN_2",
+        "threshold": 55
+      }
+    ]
+  ],
+  "ITEM_MIX_VERHEIT": [],
+  "ITEM_MIX_WINNER_TALISMAN": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_GET_GOLD_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_GET_GOLD_2",
+        "threshold": 60
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_GET_GOLD_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_551",
+        "threshold": 80
+      }
+    ]
+  ],
+  "ITEM_MIX_WITCH_TRUMPET": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_SUMMON_MONSTER_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_SUMMON_MONSTER_2",
+        "threshold": 110
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DAMAGE_SUMMON_MONSTER_3",
+        "threshold": 150
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_3",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_COST_MP_2",
+        "threshold": 60
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_SUPPRESSION_BURST_1",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_SUPPRESSION_BURST_2",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_SPD_DOWN_2",
+        "threshold": 80
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_DEFENSE_DOWN_2",
+        "threshold": 100
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_POWER_DOWN_2",
+        "threshold": 120
+      }
+    ]
+  ],
+  "ITEM_MIX_YELLOW_NEUTLIZER": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_728",
+        "threshold": 70
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_741",
+        "threshold": 70
+      }
+    ]
+  ],
+  "ITEM_MIX_ZETTEL": []
+}

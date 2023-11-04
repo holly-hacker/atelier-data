@@ -89,6 +89,41 @@ Example data:
 
 Thanks to `a.whim` on Discord for cataloging this information.
 
+## `item_effect_thresholds.json`
+
+This file contains the item effects and their thresholds when synthesizing an item.
+
+```json
+  "ITEM_MIX_AMULET_TALISMAN": [
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_AMULET_DANGER_1",
+        "threshold": 0
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AMULET_DANGER_2",
+        "threshold": 75
+      },
+      {
+        "item_effect_tag": "ITEM_EFF_AMULET_DANGER_3",
+        "threshold": 100
+      }
+    ],
+    [
+      {
+        "item_effect_tag": "ITEM_EFF_YOBI_552",
+        "threshold": 100
+      }
+    ]
+  ],
+```
+
+When synthesizing this item, the first effect slot will start out with `ITEM_EFF_AMULET_DANGER_1` because the item value threshold of 0 is always met. Upon reaching a value of 75, it will be replaced by `ITEM_EFF_AMULET_DANGER_2` and with a value of 100, it will be replaced by `ITEM_EFF_AMULET_DANGER_3`.
+
+The second item effect slot will have no effect until the item value for the second ingredient group reaches a value of 100, which places the `ITEM_EFF_YOBI_552` trait in this slot.
+
+Thanks to `a.whim` on Discord for cataloging this information.
+
 ## `shapes.json`
 
 This file contains concrete shape information for shape tags assigned to in-game materials.

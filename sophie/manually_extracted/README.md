@@ -134,10 +134,10 @@ For example, take the following shape definition:
 
 ```json
   "ITEM_SHAPE_TYPE_1_1": [
-    0,
-    1,
     3,
     4,
+    0,
+    1,
     5,
     2,
     6,
@@ -157,8 +157,8 @@ Each number in this array is an index in a 3x3 grid which is indexed like so:
 For a given size `n`, take `n` indices from this array and fill these places in the 3x3 grid. An item with shape `ITEM_SHAPE_TYPE_1_1` with size 3 would take the first 3 indices (i.e. `0`, `1` and `3`) and result in the following shape:
 
 ```
-xx.
 x..
+xx.
 ...
 ```
 

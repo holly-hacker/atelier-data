@@ -29,6 +29,16 @@ export namespace types {
         "tag": string;
 
         /**
+         * The description of this effect as shown in the in-game library.
+         */
+        "library_note": (string | null);
+
+        /**
+         * Whether this effect is shown in the in-game library.
+         */
+        "library_note_permit": boolean;
+
+        /**
          * Hit sound effect
          */
         "hit_se": (string | null);

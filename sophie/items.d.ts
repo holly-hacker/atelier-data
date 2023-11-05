@@ -3,11 +3,23 @@
 export default types;
 export namespace types {
     export type Usize = number;
+    export type U32 = number;
     export type I32 = number;
     export type Item = {
         "name": string;
         "tag": string;
         "image_no": types.Usize;
+
+        /**
+         * The description of this item as shown in the in-game library.
+         */
+        "library_note": (string | null);
+
+        /**
+         * Whether this item is shown in the in-game library.
+         */
+        "library_note_permit": boolean;
+        "library_note_icons": [(types.U32 | null), (types.U32 | null), (types.U32 | null), (types.U32 | null)];
         "cost": types.I32;
         "use_type": string;
         "base": string;
